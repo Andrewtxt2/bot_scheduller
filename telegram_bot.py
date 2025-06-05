@@ -73,7 +73,6 @@ def send_message(chat_id, text):
     
     try:
         response = requests.post(url, data=data, timeout=30)
-        response.raise_for_status()
         
         result = response.json()
         
@@ -82,7 +81,8 @@ def send_message(chat_id, text):
             return True
         else:
             error_description = result.get('description', 'Unknown error')
-            logger.error(f"Failed to send message to chat {chat_id}: {error_description}")
+            error_code = result.get('error_code', 'Unknown code')
+            logger.error(f"Failed to send message to chat {chat_id}: Code {error_code} - {error_description}")
             return False
             
     except requests.exceptions.RequestException as e:
