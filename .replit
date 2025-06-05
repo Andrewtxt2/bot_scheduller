@@ -1,4 +1,4 @@
-modules = ["python-3.11"]
+modules = ["python-3.11", "python3"]
 
 [nix]
 channel = "stable-24_05"
@@ -25,7 +25,7 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "pip install requests && python telegram_bot.py"
+args = "python telegram_bot.py"
 
 [[workflows.workflow]]
 name = "telegram_bot_test"
@@ -36,4 +36,4 @@ task = "shell.exec"
 args = "pip install requests && python telegram_bot.py"
 
 [deployment]
-run = ["sh", "-c", "pip install requests && python telegram_bot.py"]
+run = ["sh", "-c", "python telegram_bot.py"]
