@@ -171,6 +171,127 @@ def run_pending_jobs():
     schedule.run_pending()
 
 
+def save_schedule_config():
+    """
+    Save current schedule configuration to file.
+    """
+    config = {
+        "schedule_times": SCHEDULE_TIMES,
+        "timezone": TIMEZONE,
+        "last_updated": datetime.now().isoformat()
+    }
+    
+    try:
+        with open(SCHEDULE_CONFIG_FILE, 'w') as f:
+            json.dump(config, f, indent=2)
+        logger.info(f"Schedule configuration saved to {SCHEDULE_CONFIG_FILE}")
+    except Exception as e:
+        logger.error(f"Failed to save schedule config: {str(e)}")
+
+
+def load_schedule_config():
+    """
+    Load schedule configuration from file if it exists.
+    
+    Returns:
+        bool: True if config was loaded successfully, False otherwise
+    """
+    global SCHEDULE_TIMES, TIMEZONE
+    
+    try:
+        if os.path.exists(SCHEDULE_CONFIG_FILE):
+            with open(SCHEDULE_CONFIG_FILE, 'r') as f:
+                config = json.load(f)
+            
+            SCHEDULE_TIMES = config.get("schedule_times", SCHEDULE_TIMES)
+            TIMEZONE = config.get("timezone", TIMEZONE)
+            
+            logger.info(f"Schedule configuration loaded from {SCHEDULE_CONFIG_FILE}")
+            return True
+    except Exception as e:
+        logger.error(f"Failed to load schedule config: {str(e)}")
+    
+    return False
+
+
+def add_schedule_time(time_str):
+    """
+    Add a new scheduled time.
+    
+    Args:
+        time_str (str): Time in HH:MM format
+        
+    Returns:
+        bool: True if added successfully, False otherwise
+    """
+    try:
+        # Validate time format
+        datetime.strptime(time_str, '%H:%M')
+        
+        if time_str not in SCHEDULE_TIMES:
+            SCHEDULE_TIMES.append(time_str)
+            SCHEDULE_TIMES.sort()
+            
+            # Add to schedule
+            schedule.every().day.at(time_str).do(send_to_all_groups)
+            
+            logger.info(f"Added new scheduled time: {time_str}")
+            save_schedule_config()
+            return True
+        else:
+            logger.warning(f"Time {time_str} already exists in schedule")
+            return False
+            
+    except ValueError:
+        logger.error(f"Invalid time format: {time_str}. Use HH:MM format")
+        return False
+
+
+def remove_schedule_time(time_str):
+    """
+    Remove a scheduled time.
+    
+    Args:
+        time_str (str): Time in HH:MM format
+        
+    Returns:
+        bool: True if removed successfully, False otherwise
+    """
+    if time_str in SCHEDULE_TIMES:
+        SCHEDULE_TIMES.remove(time_str)
+        
+        # Clear and recreate schedule
+        schedule.clear()
+        setup_schedule()
+        
+        logger.info(f"Removed scheduled time: {time_str}")
+        save_schedule_config()
+        return True
+    else:
+        logger.warning(f"Time {time_str} not found in schedule")
+        return False
+
+
+def list_scheduled_times():
+    """
+    Get a formatted list of all scheduled times.
+    
+    Returns:
+        str: Formatted schedule information
+    """
+    if not SCHEDULE_TIMES:
+        return "No scheduled times configured"
+    
+    schedule_info = f"Scheduled message times ({len(SCHEDULE_TIMES)} total):\n"
+    for i, time_str in enumerate(SCHEDULE_TIMES, 1):
+        schedule_info += f"  {i}. {time_str}\n"
+    
+    next_time = get_next_scheduled_time()
+    schedule_info += f"Next broadcast: {next_time}"
+    
+    return schedule_info
+
+
 def validate_bot_token():
     """
     Validate the bot token by making a test API call.
@@ -201,13 +322,65 @@ def validate_bot_token():
         return False
 
 
+def handle_command_line_args():
+    """
+    Handle command line arguments for schedule management.
+    """
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Telegram Bot Schedule Manager')
+    parser.add_argument('--add-time', type=str, help='Add a new scheduled time (HH:MM)')
+    parser.add_argument('--remove-time', type=str, help='Remove a scheduled time (HH:MM)')
+    parser.add_argument('--list-schedule', action='store_true', help='List current schedule')
+    parser.add_argument('--test-send', action='store_true', help='Send test message immediately')
+    
+    args = parser.parse_args()
+    
+    # Load existing configuration
+    load_schedule_config()
+    
+    if args.add_time:
+        if add_schedule_time(args.add_time):
+            print(f"Successfully added {args.add_time} to schedule")
+        else:
+            print(f"Failed to add {args.add_time} to schedule")
+        sys.exit(0)
+    
+    elif args.remove_time:
+        if remove_schedule_time(args.remove_time):
+            print(f"Successfully removed {args.remove_time} from schedule")
+        else:
+            print(f"Failed to remove {args.remove_time} from schedule")
+        sys.exit(0)
+    
+    elif args.list_schedule:
+        print(list_scheduled_times())
+        sys.exit(0)
+    
+    elif args.test_send:
+        if validate_bot_token():
+            print("Sending test message...")
+            successful, total = send_to_all_groups()
+            print(f"Test completed: {successful}/{total} messages sent successfully")
+        else:
+            print("Bot token validation failed")
+        sys.exit(0)
+
+
 def main():
     """
-    Main function to run the bot with scheduled messaging.
+    Main function to run the bot with advanced scheduled messaging.
     """
+    # Handle command line arguments first
+    if len(sys.argv) > 1:
+        handle_command_line_args()
+    
     logger.info("=" * 50)
     logger.info("Telegram Promotional Bot Starting")
     logger.info("=" * 50)
+    
+    # Load schedule configuration if available
+    load_schedule_config()
     
     # Validate bot token before starting
     if not validate_bot_token():
@@ -217,6 +390,9 @@ def main():
     # Set up the message schedule
     setup_schedule()
     
+    # Save current configuration
+    save_schedule_config()
+    
     logger.info(f"Bot will send messages to {len(GROUP_IDS)} groups at scheduled times:")
     for schedule_time in SCHEDULE_TIMES:
         logger.info(f"  - Daily at {schedule_time}")
@@ -224,6 +400,7 @@ def main():
     # Show next scheduled time
     next_time = get_next_scheduled_time()
     logger.info(f"Next scheduled broadcast: {next_time}")
+    logger.info(f"Timezone: {TIMEZONE}")
     
     # Send initial message if it's during one of the scheduled times
     current_time = datetime.now().strftime('%H:%M')
@@ -233,6 +410,13 @@ def main():
     
     # Main scheduling loop
     try:
+        logger.info("Bot is now running. Use Ctrl+C to stop.")
+        logger.info("Schedule management commands:")
+        logger.info("  python telegram_bot.py --list-schedule")
+        logger.info("  python telegram_bot.py --add-time HH:MM")
+        logger.info("  python telegram_bot.py --remove-time HH:MM")
+        logger.info("  python telegram_bot.py --test-send")
+        
         while True:
             # Check for pending scheduled jobs
             run_pending_jobs()
@@ -242,8 +426,11 @@ def main():
             
     except KeyboardInterrupt:
         logger.info("Bot stopped by user (Ctrl+C)")
+        logger.info("Final schedule configuration saved")
+        save_schedule_config()
     except Exception as e:
         logger.error(f"Unexpected error in main loop: {str(e)}")
+        save_schedule_config()
         sys.exit(1)
 
 
