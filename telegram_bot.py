@@ -14,6 +14,9 @@ import sys
 from datetime import datetime, timedelta
 import schedule
 import json
+import threading
+from http.server import HTTPServer, BaseHTTPRequestHandler
+import socket
 
 # Configure logging
 logging.basicConfig(
@@ -37,6 +40,69 @@ GROUP_IDS = [
     -1001927958845,
     -1001508552538
 ]
+
+# Health check server configuration
+HEALTH_CHECK_PORT = 5000
+
+class HealthCheckHandler(BaseHTTPRequestHandler):
+    """Simple HTTP handler for health checks"""
+    
+    def do_GET(self):
+        """Handle GET requests for health check"""
+        if self.path == '/health' or self.path == '/':
+            self.send_response(200)
+            self.send_header('Content-type', 'application/json')
+            self.end_headers()
+            
+            # Check if bot is properly configured
+            bot_status = "healthy" if validate_bot_token() else "unhealthy"
+            next_run = get_next_scheduled_time()
+            
+            response = {
+                "status": "ok",
+                "service": "telegram-promotional-bot",
+                "bot_status": bot_status,
+                "next_scheduled_run": next_run,
+                "timezone": TIMEZONE,
+                "timestamp": datetime.now().isoformat()
+            }
+            
+            self.wfile.write(json.dumps(response).encode('utf-8'))
+        else:
+            self.send_response(404)
+            self.send_header('Content-type', 'text/plain')
+            self.end_headers()
+            self.wfile.write(b'Not Found')
+    
+    def log_message(self, format, *args):
+        """Override to reduce HTTP server logging noise"""
+        pass
+
+
+def start_health_check_server():
+    """Start the health check HTTP server in a separate thread"""
+    try:
+        server = HTTPServer(('0.0.0.0', HEALTH_CHECK_PORT), HealthCheckHandler)
+        server_thread = threading.Thread(target=server.serve_forever, daemon=True)
+        server_thread.start()
+        logger.info(f"Health check server started on port {HEALTH_CHECK_PORT}")
+        return server
+    except Exception as e:
+        logger.error(f"Failed to start health check server: {e}")
+        return None
+
+
+def find_available_port():
+    """Find an available port for the health check server"""
+    for port in range(5000, 5100):
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            try:
+                s.bind(('0.0.0.0', port))
+                return port
+            except OSError:
+                continue
+    return None
+
 
 # Promotional message
 MESSAGE = """🔔 Наші інші корисні Telegram-групи:
@@ -468,6 +534,11 @@ def main():
     logger.info("=" * 50)
     logger.info("Telegram Promotional Bot Starting")
     logger.info("=" * 50)
+    
+    # Start health check server for deployment monitoring
+    health_server = start_health_check_server()
+    if not health_server:
+        logger.warning("Health check server failed to start, continuing without it...")
     
     # Load schedule configuration if available
     load_schedule_config()

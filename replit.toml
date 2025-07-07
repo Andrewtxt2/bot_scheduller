@@ -4,8 +4,7 @@ run = "python telegram_bot.py"
 [deployment]
 run = ["python", "telegram_bot.py"]
 deploymentTarget = "gce"
-ignorePorts = true
-type = "background-worker"
+ignorePorts = false
 
 [nix]
 channel = "stable-24_05"

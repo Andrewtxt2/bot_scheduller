@@ -18,6 +18,8 @@ This is a Python-based Telegram promotional bot that automatically sends promoti
 - **Error Resilience**: Comprehensive error handling for network issues and API failures
 - **Rate Limiting**: Built-in delays between messages to comply with Telegram's rate limits
 - **Configuration Management**: JSON-based configuration for flexible scheduling
+- **Health Check Integration**: HTTP endpoint for deployment monitoring and health status
+- **Dual Operation Mode**: Scheduled messaging with concurrent health check server
 
 ## Key Components
 
@@ -75,10 +77,12 @@ This is a Python-based Telegram promotional bot that automatically sends promoti
 - **Deployment Type**: GCE background worker with ignorePorts=true
 
 ### Deployment Configuration
-- **File**: `replit.toml` with background worker configuration
-- **Type**: Background worker (no port exposure required)
+- **File**: `replit.toml` with GCE deployment configuration
+- **Type**: GCE deployment with HTTP health check endpoint
+- **Port**: 5000 (health check endpoint for deployment monitoring)
+- **Endpoints**: `/health` and `/` for status monitoring
 - **Secrets**: BOT_TOKEN environment variable for Telegram API authentication
-- **Monitoring**: Built-in logging provides operational visibility
+- **Monitoring**: Built-in logging and HTTP health check endpoint
 
 ## Changelog
 
@@ -90,6 +94,12 @@ Changelog:
   * Added BOT_TOKEN secret for proper authentication
   * Updated deployment type to GCE with ignorePorts=true
   * Bot now successfully validates and runs with scheduled messaging
+- July 07, 2025. Fixed GCE deployment issue:
+  * Added HTTP health check endpoint on port 5000
+  * Removed conflicting background-worker type specification
+  * Changed ignorePorts from true to false for proper health checks
+  * Bot now exposes /health endpoint for deployment monitoring
+  * Successfully resolves "No open port detected" deployment error
 ```
 
 ## User Preferences
