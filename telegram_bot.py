@@ -44,11 +44,14 @@ MESSAGE = """🔔 Наші інші корисні Telegram-групи:
 🏘 Нерухомість: @sofiannproperty  
 🚗 Авто: @sofiaautosell  
 📰 Новини: @sofianewnews  
-💬 Чат громади: @sbpbchatnn  
+💬 Чат громади Софіївської Борщагівки: @sbpbchatnn 
 📢 Оголошення: @sbpb_ogoloshennya  
-💼 Робота: @worksofia
+💼 Робота: @worksofia  
+🏘 Чат ЖК "У-квартал": @neoffukvartal 
+🏠 Новини Вишневого, Крюківщини @kryuvysh
 
 ✅ Долучайся, щоб нічого не пропустити!
+
 """
 
 # Schedule configuration - specific times to send messages
@@ -121,15 +124,37 @@ def send_to_all_groups():
     Returns:
         tuple: (successful_sends, total_groups)
     """
-    current_time = datetime.now().strftime('%H:%M')
+    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     logger.info(f"Starting scheduled message broadcast at {current_time} to all groups")
     successful_sends = 0
+    
+    # Check if we already sent messages in the last minute to prevent duplicates
+    last_send_file = 'last_send_time.txt'
+    try:
+        if os.path.exists(last_send_file):
+            with open(last_send_file, 'r') as f:
+                last_send_time = f.read().strip()
+                last_send_datetime = datetime.fromisoformat(last_send_time)
+                time_diff = (datetime.now() - last_send_datetime).total_seconds()
+                
+                if time_diff < 120:  # Less than 2 minutes ago
+                    logger.warning(f"Skipping duplicate send - last message sent {time_diff:.0f} seconds ago")
+                    return 0, len(GROUP_IDS)
+    except Exception as e:
+        logger.debug(f"Could not check last send time: {e}")
     
     for chat_id in GROUP_IDS:
         if send_message(chat_id, MESSAGE):
             successful_sends += 1
         # Small delay between messages to avoid rate limiting
         time.sleep(1)
+    
+    # Record the send time to prevent duplicates
+    try:
+        with open(last_send_file, 'w') as f:
+            f.write(datetime.now().isoformat())
+    except Exception as e:
+        logger.debug(f"Could not save last send time: {e}")
     
     logger.info(f"Broadcast completed: {successful_sends}/{len(GROUP_IDS)} messages sent successfully")
     return successful_sends, len(GROUP_IDS)
@@ -367,6 +392,63 @@ def handle_command_line_args():
         sys.exit(0)
 
 
+def check_if_already_running():
+    """
+    Check if another instance of the bot is already running.
+    
+    Returns:
+        bool: True if another instance is running, False otherwise
+    """
+    pid_file = 'telegram_bot.pid'
+    
+    if os.path.exists(pid_file):
+        try:
+            with open(pid_file, 'r') as f:
+                old_pid = int(f.read().strip())
+            
+            # Check if the process is still running
+            try:
+                os.kill(old_pid, 0)  # This doesn't kill, just checks if process exists
+                return True
+            except OSError:
+                # Process doesn't exist, remove stale PID file
+                os.remove(pid_file)
+                return False
+        except (ValueError, FileNotFoundError):
+            # Invalid PID file, remove it
+            try:
+                os.remove(pid_file)
+            except:
+                pass
+            return False
+    
+    return False
+
+
+def create_pid_file():
+    """
+    Create a PID file to track the running process.
+    """
+    pid_file = 'telegram_bot.pid'
+    try:
+        with open(pid_file, 'w') as f:
+            f.write(str(os.getpid()))
+    except Exception as e:
+        logger.warning(f"Could not create PID file: {e}")
+
+
+def remove_pid_file():
+    """
+    Remove the PID file when the bot stops.
+    """
+    pid_file = 'telegram_bot.pid'
+    try:
+        if os.path.exists(pid_file):
+            os.remove(pid_file)
+    except Exception as e:
+        logger.debug(f"Could not remove PID file: {e}")
+
+
 def main():
     """
     Main function to run the bot with advanced scheduled messaging.
@@ -374,6 +456,14 @@ def main():
     # Handle command line arguments first
     if len(sys.argv) > 1:
         handle_command_line_args()
+    
+    # Check if another instance is already running
+    if check_if_already_running():
+        logger.error("Another instance of the bot is already running. Exiting.")
+        sys.exit(1)
+    
+    # Create PID file to track this instance
+    create_pid_file()
     
     logger.info("=" * 50)
     logger.info("Telegram Promotional Bot Starting")
@@ -428,10 +518,14 @@ def main():
         logger.info("Bot stopped by user (Ctrl+C)")
         logger.info("Final schedule configuration saved")
         save_schedule_config()
+        remove_pid_file()
     except Exception as e:
         logger.error(f"Unexpected error in main loop: {str(e)}")
         save_schedule_config()
+        remove_pid_file()
         sys.exit(1)
+    finally:
+        remove_pid_file()
 
 
 if __name__ == "__main__":
