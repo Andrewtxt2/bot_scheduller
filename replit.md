@@ -1,0 +1,121 @@
+# Telegram Promotional Bot
+
+## Overview
+
+This is a Python-based Telegram promotional bot that automatically sends promotional messages to specified Telegram groups on a scheduled basis. The bot is designed to promote various community-related Telegram channels and groups, specifically targeting Ukrainian communities around Sofia area.
+
+## System Architecture
+
+### Core Architecture
+- **Language**: Python 3
+- **Runtime**: Script-based application with continuous execution
+- **Scheduling**: Time-based scheduling using the `schedule` library
+- **Communication**: HTTP-based API calls to Telegram Bot API
+- **Data Persistence**: File-based storage for timestamps and configuration
+
+### Key Design Decisions
+- **Stateless Design**: The bot maintains minimal state, storing only the last send time and schedule configuration
+- **Error Resilience**: Comprehensive error handling for network issues and API failures
+- **Rate Limiting**: Built-in delays between messages to comply with Telegram's rate limits
+- **Configuration Management**: JSON-based configuration for flexible scheduling
+
+## Key Components
+
+### 1. Main Bot Script (`telegram_bot.py`)
+- **Purpose**: Core bot logic and message sending functionality
+- **Responsibilities**:
+  - Telegram Bot API communication
+  - Message scheduling and delivery
+  - Error handling and logging
+  - Rate limiting between group messages
+
+### 2. Schedule Configuration (`schedule_config.json`)
+- **Purpose**: Stores scheduled send times and timezone information
+- **Current Schedule**: 5 times daily at 09:00, 13:00, 15:30, 17:00, and 21:00 (GMT+3)
+- **Flexibility**: Easily configurable for different time zones and schedules
+
+### 3. Last Send Time Tracking (`last_send_time.txt`)
+- **Purpose**: Prevents duplicate sends and maintains execution state
+- **Format**: ISO timestamp format for precise time tracking
+
+### 4. Logging System
+- **Dual Output**: Both file (`telegram_bot.log`) and console logging
+- **Level**: INFO level for operational visibility
+- **Format**: Timestamped entries with log levels
+
+## Data Flow
+
+1. **Initialization**: Bot validates token and loads configuration
+2. **Schedule Check**: Continuous monitoring of scheduled send times
+3. **Message Dispatch**: Sequential sending to all target groups with rate limiting
+4. **State Update**: Recording of last send time and schedule updates
+5. **Error Handling**: Graceful handling of network or API failures with retry logic
+
+## External Dependencies
+
+### Required Python Packages
+- `requests`: HTTP client for Telegram Bot API calls
+- `schedule`: Task scheduling library
+- Standard library modules: `time`, `os`, `logging`, `datetime`, `json`
+
+### External Services
+- **Telegram Bot API**: Primary communication channel
+- **Telegram Groups**: Target destinations for promotional messages
+
+### Environment Variables
+- `BOT_TOKEN`: Telegram bot authentication token (with fallback to hardcoded value)
+
+## Deployment Strategy
+
+### Current Setup
+- **Execution Model**: Continuous running script (background worker)
+- **Environment**: Replit with Python 3.11 environment
+- **Dependencies**: `requests` and `schedule` packages
+- **Configuration**: Environment variables (BOT_TOKEN) and JSON files
+- **Deployment Type**: GCE background worker with ignorePorts=true
+
+### Deployment Configuration
+- **File**: `replit.toml` with background worker configuration
+- **Type**: Background worker (no port exposure required)
+- **Secrets**: BOT_TOKEN environment variable for Telegram API authentication
+- **Monitoring**: Built-in logging provides operational visibility
+
+## Changelog
+
+```
+Changelog:
+- July 07, 2025. Initial setup
+- July 07, 2025. Fixed deployment configuration:
+  * Created replit.toml with background worker configuration
+  * Added BOT_TOKEN secret for proper authentication
+  * Updated deployment type to GCE with ignorePorts=true
+  * Bot now successfully validates and runs with scheduled messaging
+```
+
+## User Preferences
+
+```
+Preferred communication style: Simple, everyday language.
+```
+
+## Technical Notes
+
+### Target Groups
+The bot currently targets 4 specific Telegram groups with promotional content about Ukrainian community channels in the Sofia area, including:
+- Real estate channels
+- Auto sales groups
+- News channels
+- Community chats
+- Job boards
+- Residential complex chats
+
+### Rate Limiting
+The bot implements delays between messages to comply with Telegram's API rate limits and avoid being flagged as spam.
+
+### Error Handling
+Comprehensive error handling covers:
+- Network connectivity issues
+- Telegram API errors
+- Invalid bot tokens
+- Group access permissions
+- Rate limiting responses

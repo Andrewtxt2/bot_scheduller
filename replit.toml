@@ -1,0 +1,14 @@
+[run]
+run = "python telegram_bot.py"
+
+[deployment]
+run = ["python", "telegram_bot.py"]
+deploymentTarget = "gce"
+ignorePorts = true
+type = "background-worker"
+
+[nix]
+channel = "stable-24_05"
+
+[env]
+PYTHONUNBUFFERED = "1"
