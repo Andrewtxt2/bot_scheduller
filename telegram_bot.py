@@ -563,12 +563,6 @@ def main():
     logger.info(f"Next scheduled broadcast: {next_time}")
     logger.info(f"Timezone: {TIMEZONE}")
     
-    # Send initial message if it's during one of the scheduled times
-    current_time = datetime.now().strftime('%H:%M')
-    if current_time in SCHEDULE_TIMES:
-        logger.info("Current time matches schedule, sending initial broadcast...")
-        send_to_all_groups()
-    
     # Main scheduling loop
     try:
         logger.info("Bot is now running. Use Ctrl+C to stop.")
