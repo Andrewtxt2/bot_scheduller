@@ -100,6 +100,12 @@ Changelog:
   * Changed ignorePorts from true to false for proper health checks
   * Bot now exposes /health endpoint for deployment monitoring
   * Successfully resolves "No open port detected" deployment error
+- July 08, 2025. Enhanced bot stability and monitoring:
+  * Fixed duplicate message sending issue
+  * Added error recovery mechanism with retry logic
+  * Implemented heartbeat logging every 30 minutes
+  * Created restart_bot.sh script for automatic recovery
+  * Added consecutive error tracking to prevent infinite loops
 ```
 
 ## User Preferences

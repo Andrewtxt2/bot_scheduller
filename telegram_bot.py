@@ -572,12 +572,38 @@ def main():
         logger.info("  python telegram_bot.py --remove-time HH:MM")
         logger.info("  python telegram_bot.py --test-send")
         
+        # Counter to track consecutive errors
+        consecutive_errors = 0
+        max_consecutive_errors = 5
+        
         while True:
-            # Check for pending scheduled jobs
-            run_pending_jobs()
-            
-            # Sleep for 1 minute before checking again
-            time.sleep(60)
+            try:
+                # Check for pending scheduled jobs
+                run_pending_jobs()
+                
+                # Reset error counter on successful run
+                consecutive_errors = 0
+                
+                # Log heartbeat every 30 minutes to show bot is alive
+                current_minute = datetime.now().minute
+                if current_minute % 30 == 0:
+                    next_scheduled = get_next_scheduled_time()
+                    logger.info(f"Bot heartbeat - Next scheduled: {next_scheduled}")
+                
+                # Sleep for 1 minute before checking again
+                time.sleep(60)
+                
+            except Exception as e:
+                consecutive_errors += 1
+                logger.error(f"Error in scheduling loop (attempt {consecutive_errors}/{max_consecutive_errors}): {str(e)}")
+                
+                # If too many consecutive errors, exit
+                if consecutive_errors >= max_consecutive_errors:
+                    logger.error("Too many consecutive errors. Exiting.")
+                    break
+                
+                # Wait before retrying
+                time.sleep(30)
             
     except KeyboardInterrupt:
         logger.info("Bot stopped by user (Ctrl+C)")
