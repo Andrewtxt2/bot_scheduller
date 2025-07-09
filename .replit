@@ -19,6 +19,10 @@ args = "Telegram Bot"
 task = "workflow.run"
 args = "Cron Sender"
 
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "KeepAlive Sender"
+
 [[workflows.workflow]]
 name = "Telegram Bot"
 author = "agent"
@@ -35,6 +39,15 @@ author = "agent"
 task = "shell.exec"
 args = "python cron_sender.py"
 
+[[workflows.workflow]]
+name = "KeepAlive Sender"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python keepalive_sender.py"
+waitForPort = 5001
+
 [deployment]
 run = ["sh", "-c", "python telegram_bot.py"]
 deploymentTarget = "cloudrun"
@@ -42,3 +55,7 @@ deploymentTarget = "cloudrun"
 [[ports]]
 localPort = 5000
 externalPort = 80
+
+[[ports]]
+localPort = 5001
+externalPort = 3000
