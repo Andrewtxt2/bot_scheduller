@@ -136,7 +136,7 @@ SCHEDULE_TIMES = [
 # For morning and evening: ["08:00", "20:00"]
 
 # Advanced scheduling configuration
-TIMEZONE = "UTC"  # Set your timezone (UTC, Europe/Kiev, America/New_York, etc.)
+TIMEZONE = "GMT+3"  # Set your timezone (UTC, Europe/Kiev, America/New_York, etc.)
 SCHEDULE_CONFIG_FILE = "schedule_config.json"
 
 
