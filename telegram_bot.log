@@ -1,0 +1,2579 @@
+2025-06-05 07:06:12,951 - INFO - ==================================================
+2025-06-05 07:06:12,952 - INFO - Telegram Promotional Bot Starting
+2025-06-05 07:06:12,952 - INFO - ==================================================
+2025-06-05 07:06:12,966 - INFO - ==================================================
+2025-06-05 07:06:12,967 - INFO - Telegram Promotional Bot Starting
+2025-06-05 07:06:12,967 - INFO - ==================================================
+2025-06-05 07:06:13,319 - ERROR - Network error during token validation: 404 Client Error: Not Found for url: https://api.telegram.org/bot%D0%B2%D1%81%D1%82%D0%B0%D0%B2_%D1%82%D1%83%D1%82_%D1%82%D0%BE%D0%BA%D0%B5%D0%BD_%D0%B1%D0%BE%D1%82%D0%B0/getMe
+2025-06-05 07:06:13,320 - ERROR - Bot token validation failed. Please check your BOT_TOKEN environment variable.
+2025-06-05 07:06:13,334 - ERROR - Network error during token validation: 404 Client Error: Not Found for url: https://api.telegram.org/bot%D0%B2%D1%81%D1%82%D0%B0%D0%B2_%D1%82%D1%83%D1%82_%D1%82%D0%BE%D0%BA%D0%B5%D0%BD_%D0%B1%D0%BE%D1%82%D0%B0/getMe
+2025-06-05 07:06:13,335 - ERROR - Bot token validation failed. Please check your BOT_TOKEN environment variable.
+2025-06-05 07:06:39,867 - INFO - ==================================================
+2025-06-05 07:06:39,868 - INFO - Telegram Promotional Bot Starting
+2025-06-05 07:06:39,868 - INFO - ==================================================
+2025-06-05 07:06:43,170 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 07:06:43,170 - INFO - Bot will send messages to 4 groups every 4.0 hours
+2025-06-05 07:06:43,170 - INFO - Starting message broadcast to all groups
+2025-06-05 07:06:43,536 - ERROR - Network error when sending to chat -1002111810768: 400 Client Error: Bad Request for url: https://api.telegram.org/bot8093207171:AAEOmGvkSz0Z6nKb3vl0r3Iz2MyZjoWQqEA/sendMessage
+2025-06-05 07:06:44,903 - ERROR - Network error when sending to chat -1002098871252: 400 Client Error: Bad Request for url: https://api.telegram.org/bot8093207171:AAEOmGvkSz0Z6nKb3vl0r3Iz2MyZjoWQqEA/sendMessage
+2025-06-05 07:06:46,266 - ERROR - Network error when sending to chat -1001927958845: 400 Client Error: Bad Request for url: https://api.telegram.org/bot8093207171:AAEOmGvkSz0Z6nKb3vl0r3Iz2MyZjoWQqEA/sendMessage
+2025-06-05 07:06:47,682 - ERROR - Network error when sending to chat -1001508552538: 400 Client Error: Bad Request for url: https://api.telegram.org/bot8093207171:AAEOmGvkSz0Z6nKb3vl0r3Iz2MyZjoWQqEA/sendMessage
+2025-06-05 07:06:48,682 - INFO - Broadcast completed: 0/4 messages sent successfully
+2025-06-05 07:06:48,683 - INFO - Next message broadcast scheduled for: 2025-06-05 11:06:48
+2025-06-05 07:06:56,429 - INFO - ==================================================
+2025-06-05 07:06:56,429 - INFO - Telegram Promotional Bot Starting
+2025-06-05 07:06:56,429 - INFO - ==================================================
+2025-06-05 07:06:56,786 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 07:06:56,786 - INFO - Bot will send messages to 4 groups every 4.0 hours
+2025-06-05 07:06:56,787 - INFO - Starting message broadcast to all groups
+2025-06-05 07:06:57,156 - ERROR - Failed to send message to chat -1002111810768: Code 400 - Bad Request: chat not found
+2025-06-05 07:06:58,605 - ERROR - Failed to send message to chat -1002098871252: Code 400 - Bad Request: chat not found
+2025-06-05 07:06:59,995 - ERROR - Failed to send message to chat -1001927958845: Code 400 - Bad Request: chat not found
+2025-06-05 07:07:01,436 - ERROR - Failed to send message to chat -1001508552538: Code 400 - Bad Request: chat not found
+2025-06-05 07:07:02,437 - INFO - Broadcast completed: 0/4 messages sent successfully
+2025-06-05 07:07:02,437 - INFO - Next message broadcast scheduled for: 2025-06-05 11:07:02
+2025-06-05 07:10:02,184 - INFO - ==================================================
+2025-06-05 07:10:02,184 - INFO - Telegram Promotional Bot Starting
+2025-06-05 07:10:02,184 - INFO - ==================================================
+2025-06-05 07:10:02,554 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 07:10:02,554 - INFO - Bot will send messages to 4 groups every 4.0 hours
+2025-06-05 07:10:02,554 - INFO - Starting message broadcast to all groups
+2025-06-05 07:10:03,165 - INFO - Message sent successfully to chat -1002111810768
+2025-06-05 07:10:04,617 - INFO - Message sent successfully to chat -1002098871252
+2025-06-05 07:10:05,997 - ERROR - Failed to send message to chat -1001927958845: Code 400 - Bad Request: chat not found
+2025-06-05 07:10:07,431 - INFO - Message sent successfully to chat -1001508552538
+2025-06-05 07:10:08,432 - INFO - Broadcast completed: 3/4 messages sent successfully
+2025-06-05 07:10:08,432 - INFO - Next message broadcast scheduled for: 2025-06-05 11:10:08
+2025-06-05 07:12:39,877 - INFO - ==================================================
+2025-06-05 07:12:39,877 - INFO - Telegram Promotional Bot Starting
+2025-06-05 07:12:39,877 - INFO - ==================================================
+2025-06-05 07:12:40,234 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 07:12:40,234 - INFO - Bot will send messages to 4 groups every 4.0 hours
+2025-06-05 07:12:40,234 - INFO - Starting message broadcast to all groups
+2025-06-05 07:12:40,639 - INFO - Message sent successfully to chat -1002111810768
+2025-06-05 07:12:42,148 - INFO - Message sent successfully to chat -1002098871252
+2025-06-05 07:12:43,563 - INFO - Message sent successfully to chat -1001927958845
+2025-06-05 07:12:44,969 - INFO - Message sent successfully to chat -1001508552538
+2025-06-05 07:12:45,970 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-05 07:12:45,971 - INFO - Next message broadcast scheduled for: 2025-06-05 11:12:45
+2025-06-05 12:39:18,471 - INFO - ==================================================
+2025-06-05 12:39:18,471 - INFO - Telegram Promotional Bot Starting
+2025-06-05 12:39:18,471 - INFO - ==================================================
+2025-06-05 12:39:18,828 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 12:39:18,830 - INFO - Setting up message schedule...
+2025-06-05 12:39:18,831 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-05 12:39:18,831 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-05 12:39:18,831 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-05 12:39:18,831 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-05 12:39:18,831 - INFO - Total scheduled times: 4
+2025-06-05 12:39:18,831 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-05 12:39:18,832 - INFO -   - Daily at 09:00
+2025-06-05 12:39:18,832 - INFO -   - Daily at 13:00
+2025-06-05 12:39:18,832 - INFO -   - Daily at 17:00
+2025-06-05 12:39:18,832 - INFO -   - Daily at 21:00
+2025-06-05 12:39:18,832 - INFO - Next scheduled broadcast: 2025-06-05 13:00:00
+2025-06-05 12:39:27,774 - INFO - ==================================================
+2025-06-05 12:39:27,775 - INFO - Telegram Promotional Bot Starting
+2025-06-05 12:39:27,775 - INFO - ==================================================
+2025-06-05 12:39:28,143 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 12:39:28,144 - INFO - Setting up message schedule...
+2025-06-05 12:39:28,144 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-05 12:39:28,144 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-05 12:39:28,145 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-05 12:39:28,145 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-05 12:39:28,145 - INFO - Total scheduled times: 4
+2025-06-05 12:39:28,145 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-05 12:39:28,145 - INFO -   - Daily at 09:00
+2025-06-05 12:39:28,145 - INFO -   - Daily at 13:00
+2025-06-05 12:39:28,145 - INFO -   - Daily at 17:00
+2025-06-05 12:39:28,146 - INFO -   - Daily at 21:00
+2025-06-05 12:39:28,146 - INFO - Next scheduled broadcast: 2025-06-05 13:00:00
+2025-06-05 12:39:30,038 - INFO - ==================================================
+2025-06-05 12:39:30,038 - INFO - Telegram Promotional Bot Starting
+2025-06-05 12:39:30,039 - INFO - ==================================================
+2025-06-05 12:39:30,393 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 12:39:30,394 - INFO - Setting up message schedule...
+2025-06-05 12:39:30,394 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-05 12:39:30,394 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-05 12:39:30,394 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-05 12:39:30,394 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-05 12:39:30,394 - INFO - Total scheduled times: 4
+2025-06-05 12:39:30,394 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-05 12:39:30,395 - INFO -   - Daily at 09:00
+2025-06-05 12:39:30,395 - INFO -   - Daily at 13:00
+2025-06-05 12:39:30,395 - INFO -   - Daily at 17:00
+2025-06-05 12:39:30,395 - INFO -   - Daily at 21:00
+2025-06-05 12:39:30,395 - INFO - Next scheduled broadcast: 2025-06-05 13:00:00
+2025-06-05 12:40:43,074 - INFO - ==================================================
+2025-06-05 12:40:43,074 - INFO - Telegram Promotional Bot Starting
+2025-06-05 12:40:43,074 - INFO - ==================================================
+2025-06-05 12:40:43,434 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 12:40:43,434 - INFO - Setting up message schedule...
+2025-06-05 12:40:43,435 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-05 12:40:43,435 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-05 12:40:43,435 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-05 12:40:43,435 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-05 12:40:43,435 - INFO - Total scheduled times: 4
+2025-06-05 12:40:43,436 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-05 12:40:43,436 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-05 12:40:43,436 - INFO -   - Daily at 09:00
+2025-06-05 12:40:43,436 - INFO -   - Daily at 13:00
+2025-06-05 12:40:43,436 - INFO -   - Daily at 17:00
+2025-06-05 12:40:43,436 - INFO -   - Daily at 21:00
+2025-06-05 12:40:43,436 - INFO - Next scheduled broadcast: 2025-06-05 13:00:00
+2025-06-05 12:40:43,436 - INFO - Timezone: UTC
+2025-06-05 12:40:43,436 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-05 12:40:43,437 - INFO - Schedule management commands:
+2025-06-05 12:40:43,437 - INFO -   python telegram_bot.py --list-schedule
+2025-06-05 12:40:43,437 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-05 12:40:43,437 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-05 12:40:43,437 - INFO -   python telegram_bot.py --test-send
+2025-06-05 12:40:57,460 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-05 12:41:01,778 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-05 12:41:01,783 - INFO - Added new scheduled time: 15:30
+2025-06-05 12:41:01,785 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-05 12:41:05,539 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-05 12:41:10,879 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-05 12:41:11,247 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-05 12:41:11,247 - INFO - Starting scheduled message broadcast at 12:41 to all groups
+2025-06-05 12:41:11,680 - INFO - Message sent successfully to chat -1002111810768
+2025-06-05 12:41:13,154 - INFO - Message sent successfully to chat -1002098871252
+2025-06-05 12:41:14,704 - INFO - Message sent successfully to chat -1001927958845
+2025-06-05 12:41:16,138 - INFO - Message sent successfully to chat -1001508552538
+2025-06-05 12:41:17,139 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-05 13:00:30,400 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-06-05 13:00:30,804 - INFO - Message sent successfully to chat -1002111810768
+2025-06-05 13:00:32,347 - INFO - Message sent successfully to chat -1002098871252
+2025-06-05 13:00:33,760 - INFO - Message sent successfully to chat -1001927958845
+2025-06-05 13:00:35,160 - INFO - Message sent successfully to chat -1001508552538
+2025-06-05 13:00:36,161 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-05 13:00:43,439 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-06-05 13:00:43,842 - INFO - Message sent successfully to chat -1002111810768
+2025-06-05 13:00:45,267 - INFO - Message sent successfully to chat -1002098871252
+2025-06-05 13:00:46,753 - INFO - Message sent successfully to chat -1001927958845
+2025-06-05 13:00:48,168 - INFO - Message sent successfully to chat -1001508552538
+2025-06-05 13:00:49,169 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-06 05:19:34,879 - INFO - ==================================================
+2025-06-06 05:19:34,880 - INFO - Telegram Promotional Bot Starting
+2025-06-06 05:19:34,880 - INFO - ==================================================
+2025-06-06 05:19:34,881 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-06 05:19:35,239 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-06 05:19:35,242 - INFO - Setting up message schedule...
+2025-06-06 05:19:35,242 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-06 05:19:35,243 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-06 05:19:35,243 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-06 05:19:35,243 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-06 05:19:35,243 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-06 05:19:35,243 - INFO - Total scheduled times: 5
+2025-06-06 05:19:35,243 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-06 05:19:35,243 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-06 05:19:35,244 - INFO -   - Daily at 09:00
+2025-06-06 05:19:35,244 - INFO -   - Daily at 13:00
+2025-06-06 05:19:35,244 - INFO -   - Daily at 15:30
+2025-06-06 05:19:35,244 - INFO -   - Daily at 17:00
+2025-06-06 05:19:35,244 - INFO -   - Daily at 21:00
+2025-06-06 05:19:35,244 - INFO - Next scheduled broadcast: 2025-06-06 09:00:00
+2025-06-06 05:19:35,244 - INFO - Timezone: UTC
+2025-06-06 05:19:35,244 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-06 05:19:35,244 - INFO - Schedule management commands:
+2025-06-06 05:19:35,244 - INFO -   python telegram_bot.py --list-schedule
+2025-06-06 05:19:35,244 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-06 05:19:35,245 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-06 05:19:35,245 - INFO -   python telegram_bot.py --test-send
+2025-06-06 05:19:35,629 - INFO - ==================================================
+2025-06-06 05:19:35,629 - INFO - Telegram Promotional Bot Starting
+2025-06-06 05:19:35,629 - INFO - ==================================================
+2025-06-06 05:19:35,629 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-06 05:19:35,993 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-06 05:19:35,993 - INFO - Setting up message schedule...
+2025-06-06 05:19:35,994 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-06 05:19:35,994 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-06 05:19:35,994 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-06 05:19:35,994 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-06 05:19:35,994 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-06 05:19:35,995 - INFO - Total scheduled times: 5
+2025-06-06 05:19:35,995 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-06 05:19:35,995 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-06 05:19:35,995 - INFO -   - Daily at 09:00
+2025-06-06 05:19:35,995 - INFO -   - Daily at 13:00
+2025-06-06 05:19:35,995 - INFO -   - Daily at 15:30
+2025-06-06 05:19:35,995 - INFO -   - Daily at 17:00
+2025-06-06 05:19:35,995 - INFO -   - Daily at 21:00
+2025-06-06 05:19:35,996 - INFO - Next scheduled broadcast: 2025-06-06 09:00:00
+2025-06-06 05:19:35,996 - INFO - Timezone: UTC
+2025-06-06 05:19:35,996 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-06 05:19:35,996 - INFO - Schedule management commands:
+2025-06-06 05:19:35,996 - INFO -   python telegram_bot.py --list-schedule
+2025-06-06 05:19:35,996 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-06 05:19:35,996 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-06 05:19:35,996 - INFO -   python telegram_bot.py --test-send
+2025-06-06 05:24:36,699 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-06 05:24:37,068 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-06 05:24:37,069 - INFO - Starting scheduled message broadcast at 05:24 to all groups
+2025-06-06 05:24:37,471 - INFO - Message sent successfully to chat -1002111810768
+2025-06-06 05:24:38,894 - INFO - Message sent successfully to chat -1002098871252
+2025-06-06 05:24:40,410 - INFO - Message sent successfully to chat -1001927958845
+2025-06-06 05:24:41,860 - INFO - Message sent successfully to chat -1001508552538
+2025-06-06 05:24:42,861 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-07 12:42:23,620 - INFO - ==================================================
+2025-06-07 12:42:23,623 - INFO - Telegram Promotional Bot Starting
+2025-06-07 12:42:23,623 - INFO - ==================================================
+2025-06-07 12:42:23,623 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-07 12:42:23,984 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-07 12:42:23,985 - INFO - Setting up message schedule...
+2025-06-07 12:42:23,985 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-07 12:42:23,985 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-07 12:42:23,985 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-07 12:42:23,985 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-07 12:42:23,985 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-07 12:42:23,985 - INFO - Total scheduled times: 5
+2025-06-07 12:42:23,986 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-07 12:42:23,986 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-07 12:42:23,986 - INFO -   - Daily at 09:00
+2025-06-07 12:42:23,986 - INFO -   - Daily at 13:00
+2025-06-07 12:42:23,986 - INFO -   - Daily at 15:30
+2025-06-07 12:42:23,986 - INFO -   - Daily at 17:00
+2025-06-07 12:42:23,987 - INFO -   - Daily at 21:00
+2025-06-07 12:42:23,987 - INFO - Next scheduled broadcast: 2025-06-07 13:00:00
+2025-06-07 12:42:23,987 - INFO - Timezone: UTC
+2025-06-07 12:42:23,987 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-07 12:42:23,987 - INFO - Schedule management commands:
+2025-06-07 12:42:23,987 - INFO -   python telegram_bot.py --list-schedule
+2025-06-07 12:42:23,987 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-07 12:42:23,987 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-07 12:42:23,987 - INFO -   python telegram_bot.py --test-send
+2025-06-07 12:42:24,278 - INFO - ==================================================
+2025-06-07 12:42:24,278 - INFO - Telegram Promotional Bot Starting
+2025-06-07 12:42:24,278 - INFO - ==================================================
+2025-06-07 12:42:24,278 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-07 12:42:24,686 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-07 12:42:24,687 - INFO - Setting up message schedule...
+2025-06-07 12:42:24,687 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-07 12:42:24,687 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-07 12:42:24,687 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-07 12:42:24,688 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-07 12:42:24,688 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-07 12:42:24,688 - INFO - Total scheduled times: 5
+2025-06-07 12:42:24,688 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-07 12:42:24,688 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-07 12:42:24,688 - INFO -   - Daily at 09:00
+2025-06-07 12:42:24,689 - INFO -   - Daily at 13:00
+2025-06-07 12:42:24,689 - INFO -   - Daily at 15:30
+2025-06-07 12:42:24,689 - INFO -   - Daily at 17:00
+2025-06-07 12:42:24,689 - INFO -   - Daily at 21:00
+2025-06-07 12:42:24,689 - INFO - Next scheduled broadcast: 2025-06-07 13:00:00
+2025-06-07 12:42:24,689 - INFO - Timezone: UTC
+2025-06-07 12:42:24,689 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-07 12:42:24,689 - INFO - Schedule management commands:
+2025-06-07 12:42:24,689 - INFO -   python telegram_bot.py --list-schedule
+2025-06-07 12:42:24,689 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-07 12:42:24,690 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-07 12:42:24,690 - INFO -   python telegram_bot.py --test-send
+2025-06-07 12:48:28,598 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-07 12:48:28,963 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-07 12:48:28,963 - INFO - Starting scheduled message broadcast at 12:48 to all groups
+2025-06-07 12:48:29,370 - INFO - Message sent successfully to chat -1002111810768
+2025-06-07 12:48:30,793 - INFO - Message sent successfully to chat -1002098871252
+2025-06-07 12:48:32,274 - INFO - Message sent successfully to chat -1001927958845
+2025-06-07 12:48:33,685 - INFO - Message sent successfully to chat -1001508552538
+2025-06-07 12:48:34,686 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-07 13:00:23,993 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-06-07 13:00:24,397 - INFO - Message sent successfully to chat -1002111810768
+2025-06-07 13:00:24,692 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-06-07 13:00:25,118 - INFO - Message sent successfully to chat -1002111810768
+2025-06-07 13:00:25,816 - INFO - Message sent successfully to chat -1002098871252
+2025-06-07 13:00:26,546 - INFO - Message sent successfully to chat -1002098871252
+2025-06-07 13:00:27,220 - INFO - Message sent successfully to chat -1001927958845
+2025-06-07 13:00:27,952 - INFO - Message sent successfully to chat -1001927958845
+2025-06-07 13:00:28,626 - INFO - Message sent successfully to chat -1001508552538
+2025-06-07 13:00:29,411 - INFO - Message sent successfully to chat -1001508552538
+2025-06-07 13:00:29,627 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-07 13:00:30,411 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-09 09:48:53,081 - INFO - ==================================================
+2025-06-09 09:48:53,084 - INFO - Telegram Promotional Bot Starting
+2025-06-09 09:48:53,085 - INFO - ==================================================
+2025-06-09 09:48:53,085 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-09 09:48:53,451 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-09 09:48:53,451 - INFO - Setting up message schedule...
+2025-06-09 09:48:53,452 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-09 09:48:53,452 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-09 09:48:53,453 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-09 09:48:53,453 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-09 09:48:53,453 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-09 09:48:53,453 - INFO - Total scheduled times: 5
+2025-06-09 09:48:53,453 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-09 09:48:53,455 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-09 09:48:53,455 - INFO -   - Daily at 09:00
+2025-06-09 09:48:53,455 - INFO -   - Daily at 13:00
+2025-06-09 09:48:53,455 - INFO -   - Daily at 15:30
+2025-06-09 09:48:53,455 - INFO -   - Daily at 17:00
+2025-06-09 09:48:53,455 - INFO -   - Daily at 21:00
+2025-06-09 09:48:53,455 - INFO - Next scheduled broadcast: 2025-06-09 13:00:00
+2025-06-09 09:48:53,455 - INFO - Timezone: UTC
+2025-06-09 09:48:53,456 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-09 09:48:53,456 - INFO - Schedule management commands:
+2025-06-09 09:48:53,456 - INFO -   python telegram_bot.py --list-schedule
+2025-06-09 09:48:53,456 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-09 09:48:53,456 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-09 09:48:53,456 - INFO -   python telegram_bot.py --test-send
+2025-06-09 09:48:56,964 - INFO - ==================================================
+2025-06-09 09:48:56,965 - INFO - Telegram Promotional Bot Starting
+2025-06-09 09:48:56,965 - INFO - ==================================================
+2025-06-09 09:48:56,965 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-09 09:48:57,321 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-09 09:48:57,322 - INFO - Setting up message schedule...
+2025-06-09 09:48:57,322 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-09 09:48:57,322 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-09 09:48:57,323 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-09 09:48:57,323 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-09 09:48:57,323 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-09 09:48:57,323 - INFO - Total scheduled times: 5
+2025-06-09 09:48:57,323 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-09 09:48:57,324 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-09 09:48:57,324 - INFO -   - Daily at 09:00
+2025-06-09 09:48:57,324 - INFO -   - Daily at 13:00
+2025-06-09 09:48:57,324 - INFO -   - Daily at 15:30
+2025-06-09 09:48:57,324 - INFO -   - Daily at 17:00
+2025-06-09 09:48:57,324 - INFO -   - Daily at 21:00
+2025-06-09 09:48:57,324 - INFO - Next scheduled broadcast: 2025-06-09 13:00:00
+2025-06-09 09:48:57,324 - INFO - Timezone: UTC
+2025-06-09 09:48:57,324 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-09 09:48:57,324 - INFO - Schedule management commands:
+2025-06-09 09:48:57,325 - INFO -   python telegram_bot.py --list-schedule
+2025-06-09 09:48:57,325 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-09 09:48:57,325 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-09 09:48:57,325 - INFO -   python telegram_bot.py --test-send
+2025-06-09 09:49:56,258 - INFO - Bot stopped by user (Ctrl+C)
+2025-06-09 09:49:56,258 - INFO - Final schedule configuration saved
+2025-06-09 09:49:56,259 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-09 09:50:43,081 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-09 09:50:43,443 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-09 09:50:43,443 - INFO - Starting scheduled message broadcast at 09:50 to all groups
+2025-06-09 09:50:43,967 - INFO - Message sent successfully to chat -1002111810768
+2025-06-09 09:50:45,402 - INFO - Message sent successfully to chat -1002098871252
+2025-06-09 09:50:46,932 - INFO - Message sent successfully to chat -1001927958845
+2025-06-09 09:50:48,459 - INFO - Message sent successfully to chat -1001508552538
+2025-06-09 09:50:49,459 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-09 12:00:09,633 - INFO - ==================================================
+2025-06-09 12:00:09,634 - INFO - Telegram Promotional Bot Starting
+2025-06-09 12:00:09,634 - INFO - ==================================================
+2025-06-09 12:00:09,634 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-09 12:00:09,995 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-09 12:00:09,998 - INFO - Setting up message schedule...
+2025-06-09 12:00:09,998 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-09 12:00:09,998 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-09 12:00:09,999 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-09 12:00:09,999 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-09 12:00:09,999 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-09 12:00:09,999 - INFO - Total scheduled times: 5
+2025-06-09 12:00:09,999 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-09 12:00:10,000 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-09 12:00:10,000 - INFO -   - Daily at 09:00
+2025-06-09 12:00:10,000 - INFO -   - Daily at 13:00
+2025-06-09 12:00:10,000 - INFO -   - Daily at 15:30
+2025-06-09 12:00:10,000 - INFO -   - Daily at 17:00
+2025-06-09 12:00:10,000 - INFO -   - Daily at 21:00
+2025-06-09 12:00:10,001 - INFO - Next scheduled broadcast: 2025-06-09 13:00:00
+2025-06-09 12:00:10,001 - INFO - Timezone: GMT+3
+2025-06-09 12:00:10,001 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-09 12:00:10,001 - INFO - Schedule management commands:
+2025-06-09 12:00:10,001 - INFO -   python telegram_bot.py --list-schedule
+2025-06-09 12:00:10,001 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-09 12:00:10,001 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-09 12:00:10,001 - INFO -   python telegram_bot.py --test-send
+2025-06-09 12:00:10,753 - INFO - ==================================================
+2025-06-09 12:00:10,753 - INFO - Telegram Promotional Bot Starting
+2025-06-09 12:00:10,753 - INFO - ==================================================
+2025-06-09 12:00:10,753 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-09 12:00:11,120 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-09 12:00:11,121 - INFO - Setting up message schedule...
+2025-06-09 12:00:11,121 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-09 12:00:11,121 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-09 12:00:11,122 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-09 12:00:11,122 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-09 12:00:11,122 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-09 12:00:11,122 - INFO - Total scheduled times: 5
+2025-06-09 12:00:11,122 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-09 12:00:11,123 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-09 12:00:11,123 - INFO -   - Daily at 09:00
+2025-06-09 12:00:11,123 - INFO -   - Daily at 13:00
+2025-06-09 12:00:11,123 - INFO -   - Daily at 15:30
+2025-06-09 12:00:11,123 - INFO -   - Daily at 17:00
+2025-06-09 12:00:11,123 - INFO -   - Daily at 21:00
+2025-06-09 12:00:11,123 - INFO - Next scheduled broadcast: 2025-06-09 13:00:00
+2025-06-09 12:00:11,123 - INFO - Timezone: GMT+3
+2025-06-09 12:00:11,124 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-09 12:00:11,124 - INFO - Schedule management commands:
+2025-06-09 12:00:11,124 - INFO -   python telegram_bot.py --list-schedule
+2025-06-09 12:00:11,124 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-09 12:00:11,124 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-09 12:00:11,124 - INFO -   python telegram_bot.py --test-send
+2025-06-10 07:47:19,023 - INFO - ==================================================
+2025-06-10 07:47:19,027 - INFO - Telegram Promotional Bot Starting
+2025-06-10 07:47:19,027 - INFO - ==================================================
+2025-06-10 07:47:19,027 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-10 07:47:19,397 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-10 07:47:19,398 - INFO - Setting up message schedule...
+2025-06-10 07:47:19,399 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-10 07:47:19,399 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-10 07:47:19,399 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-10 07:47:19,399 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-10 07:47:19,399 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-10 07:47:19,399 - INFO - Total scheduled times: 5
+2025-06-10 07:47:19,399 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-10 07:47:19,400 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-10 07:47:19,400 - INFO -   - Daily at 09:00
+2025-06-10 07:47:19,400 - INFO -   - Daily at 13:00
+2025-06-10 07:47:19,400 - INFO -   - Daily at 15:30
+2025-06-10 07:47:19,400 - INFO -   - Daily at 17:00
+2025-06-10 07:47:19,400 - INFO -   - Daily at 21:00
+2025-06-10 07:47:19,400 - INFO - Next scheduled broadcast: 2025-06-10 09:00:00
+2025-06-10 07:47:19,400 - INFO - Timezone: GMT+3
+2025-06-10 07:47:19,400 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-10 07:47:19,400 - INFO - Schedule management commands:
+2025-06-10 07:47:19,400 - INFO -   python telegram_bot.py --list-schedule
+2025-06-10 07:47:19,400 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-10 07:47:19,400 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-10 07:47:19,401 - INFO -   python telegram_bot.py --test-send
+2025-06-10 07:47:20,774 - INFO - ==================================================
+2025-06-10 07:47:20,774 - INFO - Telegram Promotional Bot Starting
+2025-06-10 07:47:20,774 - INFO - ==================================================
+2025-06-10 07:47:20,774 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-10 07:47:21,134 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-10 07:47:21,134 - INFO - Setting up message schedule...
+2025-06-10 07:47:21,135 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-10 07:47:21,135 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-10 07:47:21,135 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-10 07:47:21,135 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-10 07:47:21,135 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-10 07:47:21,135 - INFO - Total scheduled times: 5
+2025-06-10 07:47:21,136 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-10 07:47:21,136 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-10 07:47:21,136 - INFO -   - Daily at 09:00
+2025-06-10 07:47:21,136 - INFO -   - Daily at 13:00
+2025-06-10 07:47:21,136 - INFO -   - Daily at 15:30
+2025-06-10 07:47:21,136 - INFO -   - Daily at 17:00
+2025-06-10 07:47:21,136 - INFO -   - Daily at 21:00
+2025-06-10 07:47:21,136 - INFO - Next scheduled broadcast: 2025-06-10 09:00:00
+2025-06-10 07:47:21,136 - INFO - Timezone: GMT+3
+2025-06-10 07:47:21,137 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-10 07:47:21,137 - INFO - Schedule management commands:
+2025-06-10 07:47:21,137 - INFO -   python telegram_bot.py --list-schedule
+2025-06-10 07:47:21,137 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-10 07:47:21,137 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-10 07:47:21,137 - INFO -   python telegram_bot.py --test-send
+2025-06-10 10:04:44,467 - INFO - ==================================================
+2025-06-10 10:04:44,471 - INFO - Telegram Promotional Bot Starting
+2025-06-10 10:04:44,471 - INFO - ==================================================
+2025-06-10 10:04:44,471 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-10 10:04:44,827 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-10 10:04:44,828 - INFO - Setting up message schedule...
+2025-06-10 10:04:44,828 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-10 10:04:44,828 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-10 10:04:44,828 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-10 10:04:44,829 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-10 10:04:44,829 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-10 10:04:44,829 - INFO - Total scheduled times: 5
+2025-06-10 10:04:44,829 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-10 10:04:44,830 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-10 10:04:44,830 - INFO -   - Daily at 09:00
+2025-06-10 10:04:44,830 - INFO -   - Daily at 13:00
+2025-06-10 10:04:44,830 - INFO -   - Daily at 15:30
+2025-06-10 10:04:44,830 - INFO -   - Daily at 17:00
+2025-06-10 10:04:44,830 - INFO -   - Daily at 21:00
+2025-06-10 10:04:44,830 - INFO - Next scheduled broadcast: 2025-06-10 13:00:00
+2025-06-10 10:04:44,830 - INFO - Timezone: GMT+3
+2025-06-10 10:04:44,830 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-10 10:04:44,830 - INFO - Schedule management commands:
+2025-06-10 10:04:44,831 - INFO -   python telegram_bot.py --list-schedule
+2025-06-10 10:04:44,831 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-10 10:04:44,831 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-10 10:04:44,831 - INFO -   python telegram_bot.py --test-send
+2025-06-10 10:04:47,079 - INFO - ==================================================
+2025-06-10 10:04:47,079 - INFO - Telegram Promotional Bot Starting
+2025-06-10 10:04:47,079 - INFO - ==================================================
+2025-06-10 10:04:47,080 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-10 10:04:47,444 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-10 10:04:47,444 - INFO - Setting up message schedule...
+2025-06-10 10:04:47,444 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-10 10:04:47,445 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-10 10:04:47,445 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-10 10:04:47,445 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-10 10:04:47,445 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-10 10:04:47,445 - INFO - Total scheduled times: 5
+2025-06-10 10:04:47,445 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-10 10:04:47,445 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-10 10:04:47,445 - INFO -   - Daily at 09:00
+2025-06-10 10:04:47,445 - INFO -   - Daily at 13:00
+2025-06-10 10:04:47,445 - INFO -   - Daily at 15:30
+2025-06-10 10:04:47,446 - INFO -   - Daily at 17:00
+2025-06-10 10:04:47,446 - INFO -   - Daily at 21:00
+2025-06-10 10:04:47,446 - INFO - Next scheduled broadcast: 2025-06-10 13:00:00
+2025-06-10 10:04:47,446 - INFO - Timezone: GMT+3
+2025-06-10 10:04:47,446 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-10 10:04:47,446 - INFO - Schedule management commands:
+2025-06-10 10:04:47,446 - INFO -   python telegram_bot.py --list-schedule
+2025-06-10 10:04:47,446 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-10 10:04:47,446 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-10 10:04:47,446 - INFO -   python telegram_bot.py --test-send
+2025-06-10 10:14:06,631 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-10 10:14:06,991 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-10 10:14:06,992 - INFO - Starting scheduled message broadcast at 10:14 to all groups
+2025-06-10 10:14:07,484 - INFO - Message sent successfully to chat -1002111810768
+2025-06-10 10:14:09,005 - INFO - Message sent successfully to chat -1002098871252
+2025-06-10 10:14:10,405 - INFO - Message sent successfully to chat -1001927958845
+2025-06-10 10:14:11,856 - INFO - Message sent successfully to chat -1001508552538
+2025-06-10 10:14:12,860 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-10 12:54:24,064 - INFO - ==================================================
+2025-06-10 12:54:24,067 - INFO - Telegram Promotional Bot Starting
+2025-06-10 12:54:24,068 - INFO - ==================================================
+2025-06-10 12:54:24,068 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-10 12:54:24,440 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-10 12:54:24,441 - INFO - Setting up message schedule...
+2025-06-10 12:54:24,441 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-10 12:54:24,441 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-10 12:54:24,441 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-10 12:54:24,441 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-10 12:54:24,442 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-10 12:54:24,442 - INFO - Total scheduled times: 5
+2025-06-10 12:54:24,442 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-10 12:54:24,442 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-10 12:54:24,442 - INFO -   - Daily at 09:00
+2025-06-10 12:54:24,442 - INFO -   - Daily at 13:00
+2025-06-10 12:54:24,442 - INFO -   - Daily at 15:30
+2025-06-10 12:54:24,443 - INFO -   - Daily at 17:00
+2025-06-10 12:54:24,443 - INFO -   - Daily at 21:00
+2025-06-10 12:54:24,443 - INFO - Next scheduled broadcast: 2025-06-10 13:00:00
+2025-06-10 12:54:24,446 - INFO - Timezone: GMT+3
+2025-06-10 12:54:24,446 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-10 12:54:24,446 - INFO - Schedule management commands:
+2025-06-10 12:54:24,446 - INFO -   python telegram_bot.py --list-schedule
+2025-06-10 12:54:24,446 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-10 12:54:24,446 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-10 12:54:24,446 - INFO -   python telegram_bot.py --test-send
+2025-06-10 12:54:25,343 - INFO - ==================================================
+2025-06-10 12:54:25,343 - INFO - Telegram Promotional Bot Starting
+2025-06-10 12:54:25,343 - INFO - ==================================================
+2025-06-10 12:54:25,344 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-10 12:54:25,700 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-10 12:54:25,700 - INFO - Setting up message schedule...
+2025-06-10 12:54:25,701 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-10 12:54:25,701 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-10 12:54:25,701 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-10 12:54:25,701 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-10 12:54:25,701 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-10 12:54:25,701 - INFO - Total scheduled times: 5
+2025-06-10 12:54:25,702 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-10 12:54:25,702 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-10 12:54:25,702 - INFO -   - Daily at 09:00
+2025-06-10 12:54:25,702 - INFO -   - Daily at 13:00
+2025-06-10 12:54:25,702 - INFO -   - Daily at 15:30
+2025-06-10 12:54:25,702 - INFO -   - Daily at 17:00
+2025-06-10 12:54:25,702 - INFO -   - Daily at 21:00
+2025-06-10 12:54:25,702 - INFO - Next scheduled broadcast: 2025-06-10 13:00:00
+2025-06-10 12:54:25,702 - INFO - Timezone: GMT+3
+2025-06-10 12:54:25,703 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-10 12:54:25,703 - INFO - Schedule management commands:
+2025-06-10 12:54:25,703 - INFO -   python telegram_bot.py --list-schedule
+2025-06-10 12:54:25,703 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-10 12:54:25,703 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-10 12:54:25,703 - INFO -   python telegram_bot.py --test-send
+2025-06-10 12:54:57,266 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-10 12:54:57,625 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-10 12:54:57,626 - INFO - Starting scheduled message broadcast at 12:54 to all groups
+2025-06-10 12:54:58,026 - INFO - Message sent successfully to chat -1002111810768
+2025-06-10 12:54:59,608 - INFO - Message sent successfully to chat -1002098871252
+2025-06-10 12:55:01,238 - INFO - Message sent successfully to chat -1001927958845
+2025-06-10 12:55:02,638 - INFO - Message sent successfully to chat -1001508552538
+2025-06-10 12:55:03,639 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-10 13:00:24,447 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-06-10 13:00:24,894 - INFO - Message sent successfully to chat -1002111810768
+2025-06-10 13:00:25,704 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-06-10 13:00:26,150 - INFO - Message sent successfully to chat -1002111810768
+2025-06-10 13:00:26,444 - INFO - Message sent successfully to chat -1002098871252
+2025-06-10 13:00:27,602 - INFO - Message sent successfully to chat -1002098871252
+2025-06-10 13:00:27,854 - INFO - Message sent successfully to chat -1001927958845
+2025-06-10 13:00:29,012 - INFO - Message sent successfully to chat -1001927958845
+2025-06-10 13:00:29,261 - INFO - Message sent successfully to chat -1001508552538
+2025-06-10 13:00:30,261 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-10 13:00:30,415 - INFO - Message sent successfully to chat -1001508552538
+2025-06-10 13:00:31,416 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-11 05:20:10,853 - INFO - ==================================================
+2025-06-11 05:20:10,858 - INFO - Telegram Promotional Bot Starting
+2025-06-11 05:20:10,859 - INFO - ==================================================
+2025-06-11 05:20:10,860 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-11 05:20:11,219 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-11 05:20:11,220 - INFO - Setting up message schedule...
+2025-06-11 05:20:11,221 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-11 05:20:11,221 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-11 05:20:11,221 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-11 05:20:11,221 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-11 05:20:11,221 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-11 05:20:11,221 - INFO - Total scheduled times: 5
+2025-06-11 05:20:11,222 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-11 05:20:11,222 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-11 05:20:11,222 - INFO -   - Daily at 09:00
+2025-06-11 05:20:11,222 - INFO -   - Daily at 13:00
+2025-06-11 05:20:11,222 - INFO -   - Daily at 15:30
+2025-06-11 05:20:11,222 - INFO -   - Daily at 17:00
+2025-06-11 05:20:11,222 - INFO -   - Daily at 21:00
+2025-06-11 05:20:11,222 - INFO - Next scheduled broadcast: 2025-06-11 09:00:00
+2025-06-11 05:20:11,222 - INFO - Timezone: GMT+3
+2025-06-11 05:20:11,223 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-11 05:20:11,223 - INFO - Schedule management commands:
+2025-06-11 05:20:11,223 - INFO -   python telegram_bot.py --list-schedule
+2025-06-11 05:20:11,223 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-11 05:20:11,223 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-11 05:20:11,223 - INFO -   python telegram_bot.py --test-send
+2025-06-11 05:20:12,107 - INFO - ==================================================
+2025-06-11 05:20:12,107 - INFO - Telegram Promotional Bot Starting
+2025-06-11 05:20:12,107 - INFO - ==================================================
+2025-06-11 05:20:12,107 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-11 05:20:12,465 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-11 05:20:12,466 - INFO - Setting up message schedule...
+2025-06-11 05:20:12,468 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-11 05:20:12,469 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-11 05:20:12,469 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-11 05:20:12,469 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-11 05:20:12,469 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-11 05:20:12,470 - INFO - Total scheduled times: 5
+2025-06-11 05:20:12,470 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-11 05:20:12,470 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-11 05:20:12,470 - INFO -   - Daily at 09:00
+2025-06-11 05:20:12,470 - INFO -   - Daily at 13:00
+2025-06-11 05:20:12,470 - INFO -   - Daily at 15:30
+2025-06-11 05:20:12,470 - INFO -   - Daily at 17:00
+2025-06-11 05:20:12,470 - INFO -   - Daily at 21:00
+2025-06-11 05:20:12,470 - INFO - Next scheduled broadcast: 2025-06-11 09:00:00
+2025-06-11 05:20:12,471 - INFO - Timezone: GMT+3
+2025-06-11 05:20:12,471 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-11 05:20:12,471 - INFO - Schedule management commands:
+2025-06-11 05:20:12,471 - INFO -   python telegram_bot.py --list-schedule
+2025-06-11 05:20:12,471 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-11 05:20:12,471 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-11 05:20:12,471 - INFO -   python telegram_bot.py --test-send
+2025-06-11 05:25:00,471 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-11 05:25:00,841 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-11 05:25:00,841 - INFO - Starting scheduled message broadcast at 05:25 to all groups
+2025-06-11 05:25:01,351 - INFO - Message sent successfully to chat -1002111810768
+2025-06-11 05:25:02,752 - INFO - Message sent successfully to chat -1002098871252
+2025-06-11 05:25:04,200 - INFO - Message sent successfully to chat -1001927958845
+2025-06-11 05:25:05,696 - INFO - Message sent successfully to chat -1001508552538
+2025-06-11 05:25:06,698 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-11 07:38:57,368 - INFO - ==================================================
+2025-06-11 07:38:57,370 - INFO - Telegram Promotional Bot Starting
+2025-06-11 07:38:57,370 - INFO - ==================================================
+2025-06-11 07:38:57,370 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-11 07:38:57,746 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-11 07:38:57,748 - INFO - Setting up message schedule...
+2025-06-11 07:38:57,748 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-11 07:38:57,748 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-11 07:38:57,754 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-11 07:38:57,754 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-11 07:38:57,776 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-11 07:38:57,776 - INFO - Total scheduled times: 5
+2025-06-11 07:38:57,780 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-11 07:38:57,780 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-11 07:38:57,780 - INFO -   - Daily at 09:00
+2025-06-11 07:38:57,780 - INFO -   - Daily at 13:00
+2025-06-11 07:38:57,780 - INFO -   - Daily at 15:30
+2025-06-11 07:38:57,780 - INFO -   - Daily at 17:00
+2025-06-11 07:38:57,780 - INFO -   - Daily at 21:00
+2025-06-11 07:38:57,780 - INFO - Next scheduled broadcast: 2025-06-11 09:00:00
+2025-06-11 07:38:57,780 - INFO - Timezone: GMT+3
+2025-06-11 07:38:57,780 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-11 07:38:57,780 - INFO - Schedule management commands:
+2025-06-11 07:38:57,780 - INFO -   python telegram_bot.py --list-schedule
+2025-06-11 07:38:57,781 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-11 07:38:57,781 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-11 07:38:57,781 - INFO -   python telegram_bot.py --test-send
+2025-06-11 07:38:59,208 - INFO - ==================================================
+2025-06-11 07:38:59,208 - INFO - Telegram Promotional Bot Starting
+2025-06-11 07:38:59,208 - INFO - ==================================================
+2025-06-11 07:38:59,209 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-11 07:38:59,573 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-11 07:38:59,588 - INFO - Setting up message schedule...
+2025-06-11 07:38:59,588 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-11 07:38:59,588 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-11 07:38:59,589 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-11 07:38:59,589 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-11 07:38:59,589 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-11 07:38:59,589 - INFO - Total scheduled times: 5
+2025-06-11 07:38:59,589 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-11 07:38:59,589 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-11 07:38:59,589 - INFO -   - Daily at 09:00
+2025-06-11 07:38:59,590 - INFO -   - Daily at 13:00
+2025-06-11 07:38:59,590 - INFO -   - Daily at 15:30
+2025-06-11 07:38:59,590 - INFO -   - Daily at 17:00
+2025-06-11 07:38:59,590 - INFO -   - Daily at 21:00
+2025-06-11 07:38:59,590 - INFO - Next scheduled broadcast: 2025-06-11 09:00:00
+2025-06-11 07:38:59,590 - INFO - Timezone: GMT+3
+2025-06-11 07:38:59,590 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-11 07:38:59,590 - INFO - Schedule management commands:
+2025-06-11 07:38:59,590 - INFO -   python telegram_bot.py --list-schedule
+2025-06-11 07:38:59,590 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-11 07:38:59,590 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-11 07:38:59,590 - INFO -   python telegram_bot.py --test-send
+2025-06-11 18:07:15,429 - INFO - ==================================================
+2025-06-11 18:07:15,433 - INFO - Telegram Promotional Bot Starting
+2025-06-11 18:07:15,433 - INFO - ==================================================
+2025-06-11 18:07:15,434 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-11 18:07:15,795 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-11 18:07:15,795 - INFO - Setting up message schedule...
+2025-06-11 18:07:15,795 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-11 18:07:15,796 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-11 18:07:15,796 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-11 18:07:15,796 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-11 18:07:15,796 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-11 18:07:15,796 - INFO - Total scheduled times: 5
+2025-06-11 18:07:15,796 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-11 18:07:15,796 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-11 18:07:15,796 - INFO -   - Daily at 09:00
+2025-06-11 18:07:15,796 - INFO -   - Daily at 13:00
+2025-06-11 18:07:15,797 - INFO -   - Daily at 15:30
+2025-06-11 18:07:15,797 - INFO -   - Daily at 17:00
+2025-06-11 18:07:15,797 - INFO -   - Daily at 21:00
+2025-06-11 18:07:15,797 - INFO - Next scheduled broadcast: 2025-06-11 21:00:00
+2025-06-11 18:07:15,797 - INFO - Timezone: GMT+3
+2025-06-11 18:07:15,797 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-11 18:07:15,797 - INFO - Schedule management commands:
+2025-06-11 18:07:15,797 - INFO -   python telegram_bot.py --list-schedule
+2025-06-11 18:07:15,797 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-11 18:07:15,797 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-11 18:07:15,797 - INFO -   python telegram_bot.py --test-send
+2025-06-11 18:07:17,015 - INFO - ==================================================
+2025-06-11 18:07:17,016 - INFO - Telegram Promotional Bot Starting
+2025-06-11 18:07:17,016 - INFO - ==================================================
+2025-06-11 18:07:17,016 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-11 18:07:17,373 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-11 18:07:17,373 - INFO - Setting up message schedule...
+2025-06-11 18:07:17,374 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-11 18:07:17,374 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-11 18:07:17,374 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-11 18:07:17,374 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-11 18:07:17,375 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-11 18:07:17,375 - INFO - Total scheduled times: 5
+2025-06-11 18:07:17,375 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-11 18:07:17,375 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-11 18:07:17,375 - INFO -   - Daily at 09:00
+2025-06-11 18:07:17,375 - INFO -   - Daily at 13:00
+2025-06-11 18:07:17,375 - INFO -   - Daily at 15:30
+2025-06-11 18:07:17,375 - INFO -   - Daily at 17:00
+2025-06-11 18:07:17,375 - INFO -   - Daily at 21:00
+2025-06-11 18:07:17,376 - INFO - Next scheduled broadcast: 2025-06-11 21:00:00
+2025-06-11 18:07:17,376 - INFO - Timezone: GMT+3
+2025-06-11 18:07:17,376 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-11 18:07:17,376 - INFO - Schedule management commands:
+2025-06-11 18:07:17,376 - INFO -   python telegram_bot.py --list-schedule
+2025-06-11 18:07:17,376 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-11 18:07:17,376 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-11 18:07:17,376 - INFO -   python telegram_bot.py --test-send
+2025-06-11 18:07:21,661 - INFO - Bot stopped by user (Ctrl+C)
+2025-06-11 18:07:21,661 - INFO - Final schedule configuration saved
+2025-06-11 18:07:21,662 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-11 18:08:00,698 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-11 18:08:01,061 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-11 18:08:01,064 - INFO - Starting scheduled message broadcast at 18:08 to all groups
+2025-06-11 18:08:01,617 - INFO - Message sent successfully to chat -1002111810768
+2025-06-11 18:08:03,024 - INFO - Message sent successfully to chat -1002098871252
+2025-06-11 18:08:04,493 - INFO - Message sent successfully to chat -1001927958845
+2025-06-11 18:08:05,963 - INFO - Message sent successfully to chat -1001508552538
+2025-06-11 18:08:06,963 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-12 13:25:40,710 - INFO - ==================================================
+2025-06-12 13:25:40,713 - INFO - Telegram Promotional Bot Starting
+2025-06-12 13:25:40,713 - INFO - ==================================================
+2025-06-12 13:25:40,713 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-12 13:25:41,075 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-12 13:25:41,076 - INFO - Setting up message schedule...
+2025-06-12 13:25:41,076 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-12 13:25:41,076 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-12 13:25:41,076 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-12 13:25:41,076 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-12 13:25:41,077 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-12 13:25:41,077 - INFO - Total scheduled times: 5
+2025-06-12 13:25:41,077 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-12 13:25:41,077 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-12 13:25:41,077 - INFO -   - Daily at 09:00
+2025-06-12 13:25:41,077 - INFO -   - Daily at 13:00
+2025-06-12 13:25:41,077 - INFO -   - Daily at 15:30
+2025-06-12 13:25:41,077 - INFO -   - Daily at 17:00
+2025-06-12 13:25:41,077 - INFO -   - Daily at 21:00
+2025-06-12 13:25:41,077 - INFO - Next scheduled broadcast: 2025-06-12 15:30:00
+2025-06-12 13:25:41,078 - INFO - Timezone: GMT+3
+2025-06-12 13:25:41,078 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-12 13:25:41,078 - INFO - Schedule management commands:
+2025-06-12 13:25:41,078 - INFO -   python telegram_bot.py --list-schedule
+2025-06-12 13:25:41,078 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-12 13:25:41,078 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-12 13:25:41,078 - INFO -   python telegram_bot.py --test-send
+2025-06-12 13:25:42,627 - INFO - ==================================================
+2025-06-12 13:25:42,628 - INFO - Telegram Promotional Bot Starting
+2025-06-12 13:25:42,628 - INFO - ==================================================
+2025-06-12 13:25:42,628 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-12 13:25:42,982 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-12 13:25:42,982 - INFO - Setting up message schedule...
+2025-06-12 13:25:42,983 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-12 13:25:42,983 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-12 13:25:42,983 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-12 13:25:42,983 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-12 13:25:42,983 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-12 13:25:42,984 - INFO - Total scheduled times: 5
+2025-06-12 13:25:42,984 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-12 13:25:42,984 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-12 13:25:42,984 - INFO -   - Daily at 09:00
+2025-06-12 13:25:42,984 - INFO -   - Daily at 13:00
+2025-06-12 13:25:42,984 - INFO -   - Daily at 15:30
+2025-06-12 13:25:42,984 - INFO -   - Daily at 17:00
+2025-06-12 13:25:42,984 - INFO -   - Daily at 21:00
+2025-06-12 13:25:42,985 - INFO - Next scheduled broadcast: 2025-06-12 15:30:00
+2025-06-12 13:25:42,985 - INFO - Timezone: GMT+3
+2025-06-12 13:25:42,985 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-12 13:25:42,985 - INFO - Schedule management commands:
+2025-06-12 13:25:42,985 - INFO -   python telegram_bot.py --list-schedule
+2025-06-12 13:25:42,985 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-12 13:25:42,985 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-12 13:25:42,985 - INFO -   python telegram_bot.py --test-send
+2025-06-12 13:27:47,764 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-12 13:27:48,120 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-12 13:27:48,120 - INFO - Starting scheduled message broadcast at 13:27 to all groups
+2025-06-12 13:27:48,531 - INFO - Message sent successfully to chat -1002111810768
+2025-06-12 13:27:49,994 - INFO - Message sent successfully to chat -1002098871252
+2025-06-12 13:27:51,418 - INFO - Message sent successfully to chat -1001927958845
+2025-06-12 13:27:52,843 - INFO - Message sent successfully to chat -1001508552538
+2025-06-12 13:27:53,843 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-13 06:26:20,994 - INFO - ==================================================
+2025-06-13 06:26:20,996 - INFO - Telegram Promotional Bot Starting
+2025-06-13 06:26:20,996 - INFO - ==================================================
+2025-06-13 06:26:20,996 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-13 06:26:21,350 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-13 06:26:21,351 - INFO - Setting up message schedule...
+2025-06-13 06:26:21,351 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-13 06:26:21,351 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-13 06:26:21,352 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-13 06:26:21,352 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-13 06:26:21,352 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-13 06:26:21,352 - INFO - Total scheduled times: 5
+2025-06-13 06:26:21,352 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-13 06:26:21,352 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-13 06:26:21,353 - INFO -   - Daily at 09:00
+2025-06-13 06:26:21,353 - INFO -   - Daily at 13:00
+2025-06-13 06:26:21,353 - INFO -   - Daily at 15:30
+2025-06-13 06:26:21,353 - INFO -   - Daily at 17:00
+2025-06-13 06:26:21,353 - INFO -   - Daily at 21:00
+2025-06-13 06:26:21,353 - INFO - Next scheduled broadcast: 2025-06-13 09:00:00
+2025-06-13 06:26:21,353 - INFO - Timezone: GMT+3
+2025-06-13 06:26:21,353 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-13 06:26:21,353 - INFO - Schedule management commands:
+2025-06-13 06:26:21,353 - INFO -   python telegram_bot.py --list-schedule
+2025-06-13 06:26:21,353 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-13 06:26:21,353 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-13 06:26:21,353 - INFO -   python telegram_bot.py --test-send
+2025-06-13 06:26:21,637 - INFO - ==================================================
+2025-06-13 06:26:21,637 - INFO - Telegram Promotional Bot Starting
+2025-06-13 06:26:21,637 - INFO - ==================================================
+2025-06-13 06:26:21,637 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-13 06:26:21,994 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-13 06:26:21,994 - INFO - Setting up message schedule...
+2025-06-13 06:26:21,995 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-13 06:26:21,995 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-13 06:26:21,995 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-13 06:26:21,995 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-13 06:26:21,995 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-13 06:26:21,995 - INFO - Total scheduled times: 5
+2025-06-13 06:26:21,996 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-13 06:26:21,996 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-13 06:26:21,996 - INFO -   - Daily at 09:00
+2025-06-13 06:26:21,996 - INFO -   - Daily at 13:00
+2025-06-13 06:26:21,996 - INFO -   - Daily at 15:30
+2025-06-13 06:26:21,996 - INFO -   - Daily at 17:00
+2025-06-13 06:26:21,996 - INFO -   - Daily at 21:00
+2025-06-13 06:26:21,996 - INFO - Next scheduled broadcast: 2025-06-13 09:00:00
+2025-06-13 06:26:21,996 - INFO - Timezone: GMT+3
+2025-06-13 06:26:21,996 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-13 06:26:21,996 - INFO - Schedule management commands:
+2025-06-13 06:26:21,997 - INFO -   python telegram_bot.py --list-schedule
+2025-06-13 06:26:21,997 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-13 06:26:21,997 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-13 06:26:21,997 - INFO -   python telegram_bot.py --test-send
+2025-06-13 06:27:51,647 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-13 06:27:52,003 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-13 06:27:52,004 - INFO - Starting scheduled message broadcast at 06:27 to all groups
+2025-06-13 06:27:52,501 - INFO - Message sent successfully to chat -1002111810768
+2025-06-13 06:27:54,040 - INFO - Message sent successfully to chat -1002098871252
+2025-06-13 06:27:55,463 - INFO - Message sent successfully to chat -1001927958845
+2025-06-13 06:27:56,854 - INFO - Message sent successfully to chat -1001508552538
+2025-06-13 06:27:57,855 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-13 10:19:43,065 - INFO - ==================================================
+2025-06-13 10:19:43,068 - INFO - Telegram Promotional Bot Starting
+2025-06-13 10:19:43,068 - INFO - ==================================================
+2025-06-13 10:19:43,068 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-13 10:19:43,423 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-13 10:19:43,423 - INFO - Setting up message schedule...
+2025-06-13 10:19:43,423 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-13 10:19:43,424 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-13 10:19:43,424 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-13 10:19:43,424 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-13 10:19:43,424 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-13 10:19:43,424 - INFO - Total scheduled times: 5
+2025-06-13 10:19:43,424 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-13 10:19:43,424 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-13 10:19:43,424 - INFO -   - Daily at 09:00
+2025-06-13 10:19:43,425 - INFO -   - Daily at 13:00
+2025-06-13 10:19:43,425 - INFO -   - Daily at 15:30
+2025-06-13 10:19:43,425 - INFO -   - Daily at 17:00
+2025-06-13 10:19:43,425 - INFO -   - Daily at 21:00
+2025-06-13 10:19:43,425 - INFO - Next scheduled broadcast: 2025-06-13 13:00:00
+2025-06-13 10:19:43,425 - INFO - Timezone: GMT+3
+2025-06-13 10:19:43,425 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-13 10:19:43,425 - INFO - Schedule management commands:
+2025-06-13 10:19:43,425 - INFO -   python telegram_bot.py --list-schedule
+2025-06-13 10:19:43,425 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-13 10:19:43,425 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-13 10:19:43,425 - INFO -   python telegram_bot.py --test-send
+2025-06-13 10:19:44,416 - INFO - ==================================================
+2025-06-13 10:19:44,416 - INFO - Telegram Promotional Bot Starting
+2025-06-13 10:19:44,417 - INFO - ==================================================
+2025-06-13 10:19:44,417 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-13 10:19:44,775 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-13 10:19:44,775 - INFO - Setting up message schedule...
+2025-06-13 10:19:44,776 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-13 10:19:44,776 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-13 10:19:44,776 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-13 10:19:44,776 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-13 10:19:44,776 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-13 10:19:44,776 - INFO - Total scheduled times: 5
+2025-06-13 10:19:44,777 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-13 10:19:44,777 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-13 10:19:44,777 - INFO -   - Daily at 09:00
+2025-06-13 10:19:44,777 - INFO -   - Daily at 13:00
+2025-06-13 10:19:44,777 - INFO -   - Daily at 15:30
+2025-06-13 10:19:44,777 - INFO -   - Daily at 17:00
+2025-06-13 10:19:44,777 - INFO -   - Daily at 21:00
+2025-06-13 10:19:44,777 - INFO - Next scheduled broadcast: 2025-06-13 13:00:00
+2025-06-13 10:19:44,777 - INFO - Timezone: GMT+3
+2025-06-13 10:19:44,777 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-13 10:19:44,778 - INFO - Schedule management commands:
+2025-06-13 10:19:44,778 - INFO -   python telegram_bot.py --list-schedule
+2025-06-13 10:19:44,778 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-13 10:19:44,778 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-13 10:19:44,778 - INFO -   python telegram_bot.py --test-send
+2025-06-16 05:08:52,724 - INFO - ==================================================
+2025-06-16 05:08:52,725 - INFO - Telegram Promotional Bot Starting
+2025-06-16 05:08:52,725 - INFO - ==================================================
+2025-06-16 05:08:52,725 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 05:08:53,114 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 05:08:53,114 - INFO - Setting up message schedule...
+2025-06-16 05:08:53,115 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-16 05:08:53,115 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-16 05:08:53,115 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-16 05:08:53,115 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-16 05:08:53,115 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-16 05:08:53,115 - INFO - Total scheduled times: 5
+2025-06-16 05:08:53,115 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-16 05:08:53,115 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-16 05:08:53,115 - INFO -   - Daily at 09:00
+2025-06-16 05:08:53,116 - INFO -   - Daily at 13:00
+2025-06-16 05:08:53,116 - INFO -   - Daily at 15:30
+2025-06-16 05:08:53,116 - INFO -   - Daily at 17:00
+2025-06-16 05:08:53,116 - INFO -   - Daily at 21:00
+2025-06-16 05:08:53,116 - INFO - Next scheduled broadcast: 2025-06-16 09:00:00
+2025-06-16 05:08:53,116 - INFO - Timezone: GMT+3
+2025-06-16 05:08:53,116 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-16 05:08:53,116 - INFO - Schedule management commands:
+2025-06-16 05:08:53,116 - INFO -   python telegram_bot.py --list-schedule
+2025-06-16 05:08:53,116 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-16 05:08:53,116 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-16 05:08:53,116 - INFO -   python telegram_bot.py --test-send
+2025-06-16 05:08:53,861 - INFO - ==================================================
+2025-06-16 05:08:53,861 - INFO - Telegram Promotional Bot Starting
+2025-06-16 05:08:53,861 - INFO - ==================================================
+2025-06-16 05:08:53,861 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 05:08:54,221 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 05:08:54,222 - INFO - Setting up message schedule...
+2025-06-16 05:08:54,222 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-16 05:08:54,222 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-16 05:08:54,223 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-16 05:08:54,223 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-16 05:08:54,223 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-16 05:08:54,223 - INFO - Total scheduled times: 5
+2025-06-16 05:08:54,223 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-16 05:08:54,223 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-16 05:08:54,223 - INFO -   - Daily at 09:00
+2025-06-16 05:08:54,224 - INFO -   - Daily at 13:00
+2025-06-16 05:08:54,224 - INFO -   - Daily at 15:30
+2025-06-16 05:08:54,224 - INFO -   - Daily at 17:00
+2025-06-16 05:08:54,224 - INFO -   - Daily at 21:00
+2025-06-16 05:08:54,224 - INFO - Next scheduled broadcast: 2025-06-16 09:00:00
+2025-06-16 05:08:54,224 - INFO - Timezone: GMT+3
+2025-06-16 05:08:54,224 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-16 05:08:54,224 - INFO - Schedule management commands:
+2025-06-16 05:08:54,224 - INFO -   python telegram_bot.py --list-schedule
+2025-06-16 05:08:54,224 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-16 05:08:54,224 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-16 05:08:54,224 - INFO -   python telegram_bot.py --test-send
+2025-06-16 05:08:54,973 - INFO - ==================================================
+2025-06-16 05:08:54,974 - INFO - Telegram Promotional Bot Starting
+2025-06-16 05:08:54,974 - INFO - ==================================================
+2025-06-16 05:08:54,974 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 05:08:55,330 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 05:08:55,331 - INFO - Setting up message schedule...
+2025-06-16 05:08:55,331 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-16 05:08:55,331 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-16 05:08:55,331 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-16 05:08:55,332 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-16 05:08:55,332 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-16 05:08:55,332 - INFO - Total scheduled times: 5
+2025-06-16 05:08:55,332 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-16 05:08:55,332 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-16 05:08:55,332 - INFO -   - Daily at 09:00
+2025-06-16 05:08:55,332 - INFO -   - Daily at 13:00
+2025-06-16 05:08:55,332 - INFO -   - Daily at 15:30
+2025-06-16 05:08:55,333 - INFO -   - Daily at 17:00
+2025-06-16 05:08:55,333 - INFO -   - Daily at 21:00
+2025-06-16 05:08:55,333 - INFO - Next scheduled broadcast: 2025-06-16 09:00:00
+2025-06-16 05:08:55,333 - INFO - Timezone: GMT+3
+2025-06-16 05:08:55,333 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-16 05:08:55,333 - INFO - Schedule management commands:
+2025-06-16 05:08:55,333 - INFO -   python telegram_bot.py --list-schedule
+2025-06-16 05:08:55,333 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-16 05:08:55,333 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-16 05:08:55,333 - INFO -   python telegram_bot.py --test-send
+2025-06-16 05:08:55,680 - INFO - ==================================================
+2025-06-16 05:08:55,680 - INFO - Telegram Promotional Bot Starting
+2025-06-16 05:08:55,680 - INFO - ==================================================
+2025-06-16 05:08:55,680 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 05:08:56,037 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 05:08:56,037 - INFO - Setting up message schedule...
+2025-06-16 05:08:56,037 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-16 05:08:56,037 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-16 05:08:56,037 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-16 05:08:56,038 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-16 05:08:56,038 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-16 05:08:56,038 - INFO - Total scheduled times: 5
+2025-06-16 05:08:56,038 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-16 05:08:56,038 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-16 05:08:56,038 - INFO -   - Daily at 09:00
+2025-06-16 05:08:56,038 - INFO -   - Daily at 13:00
+2025-06-16 05:08:56,039 - INFO -   - Daily at 15:30
+2025-06-16 05:08:56,039 - INFO -   - Daily at 17:00
+2025-06-16 05:08:56,039 - INFO -   - Daily at 21:00
+2025-06-16 05:08:56,039 - INFO - Next scheduled broadcast: 2025-06-16 09:00:00
+2025-06-16 05:08:56,039 - INFO - Timezone: GMT+3
+2025-06-16 05:08:56,039 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-16 05:08:56,039 - INFO - Schedule management commands:
+2025-06-16 05:08:56,039 - INFO -   python telegram_bot.py --list-schedule
+2025-06-16 05:08:56,039 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-16 05:08:56,039 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-16 05:08:56,039 - INFO -   python telegram_bot.py --test-send
+2025-06-16 05:08:57,182 - INFO - ==================================================
+2025-06-16 05:08:57,182 - INFO - Telegram Promotional Bot Starting
+2025-06-16 05:08:57,183 - INFO - ==================================================
+2025-06-16 05:08:57,183 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 05:08:57,541 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 05:08:57,542 - INFO - Setting up message schedule...
+2025-06-16 05:08:57,542 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-16 05:08:57,542 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-16 05:08:57,542 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-16 05:08:57,542 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-16 05:08:57,542 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-16 05:08:57,542 - INFO - Total scheduled times: 5
+2025-06-16 05:08:57,543 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-16 05:08:57,543 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-16 05:08:57,543 - INFO -   - Daily at 09:00
+2025-06-16 05:08:57,543 - INFO -   - Daily at 13:00
+2025-06-16 05:08:57,543 - INFO -   - Daily at 15:30
+2025-06-16 05:08:57,543 - INFO -   - Daily at 17:00
+2025-06-16 05:08:57,543 - INFO -   - Daily at 21:00
+2025-06-16 05:08:57,543 - INFO - Next scheduled broadcast: 2025-06-16 09:00:00
+2025-06-16 05:08:57,543 - INFO - Timezone: GMT+3
+2025-06-16 05:08:57,543 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-16 05:08:57,543 - INFO - Schedule management commands:
+2025-06-16 05:08:57,543 - INFO -   python telegram_bot.py --list-schedule
+2025-06-16 05:08:57,543 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-16 05:08:57,544 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-16 05:08:57,544 - INFO -   python telegram_bot.py --test-send
+2025-06-16 05:08:57,877 - INFO - ==================================================
+2025-06-16 05:08:57,877 - INFO - Telegram Promotional Bot Starting
+2025-06-16 05:08:57,877 - INFO - ==================================================
+2025-06-16 05:08:57,877 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 05:08:58,232 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 05:08:58,233 - INFO - Setting up message schedule...
+2025-06-16 05:08:58,233 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-16 05:08:58,233 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-16 05:08:58,233 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-16 05:08:58,234 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-16 05:08:58,234 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-16 05:08:58,234 - INFO - Total scheduled times: 5
+2025-06-16 05:08:58,234 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-16 05:08:58,234 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-16 05:08:58,234 - INFO -   - Daily at 09:00
+2025-06-16 05:08:58,234 - INFO -   - Daily at 13:00
+2025-06-16 05:08:58,234 - INFO -   - Daily at 15:30
+2025-06-16 05:08:58,234 - INFO -   - Daily at 17:00
+2025-06-16 05:08:58,234 - INFO -   - Daily at 21:00
+2025-06-16 05:08:58,235 - INFO - Next scheduled broadcast: 2025-06-16 09:00:00
+2025-06-16 05:08:58,235 - INFO - Timezone: GMT+3
+2025-06-16 05:08:58,235 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-16 05:08:58,235 - INFO - Schedule management commands:
+2025-06-16 05:08:58,235 - INFO -   python telegram_bot.py --list-schedule
+2025-06-16 05:08:58,235 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-16 05:08:58,235 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-16 05:08:58,235 - INFO -   python telegram_bot.py --test-send
+2025-06-16 05:10:03,207 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 05:10:03,567 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 05:10:03,567 - INFO - Starting scheduled message broadcast at 05:10 to all groups
+2025-06-16 05:10:03,968 - INFO - Message sent successfully to chat -1002111810768
+2025-06-16 05:10:05,385 - INFO - Message sent successfully to chat -1002098871252
+2025-06-16 05:10:06,888 - INFO - Message sent successfully to chat -1001927958845
+2025-06-16 05:10:08,281 - INFO - Message sent successfully to chat -1001508552538
+2025-06-16 05:10:09,281 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-16 09:00:53,141 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-16 09:00:53,660 - INFO - Message sent successfully to chat -1002111810768
+2025-06-16 09:00:54,249 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-16 09:00:54,708 - INFO - Message sent successfully to chat -1002111810768
+2025-06-16 09:00:55,083 - INFO - Message sent successfully to chat -1002098871252
+2025-06-16 09:00:55,359 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-16 09:00:55,913 - INFO - Message sent successfully to chat -1002111810768
+2025-06-16 09:00:56,063 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-16 09:00:56,183 - INFO - Message sent successfully to chat -1002098871252
+2025-06-16 09:00:56,479 - INFO - Message sent successfully to chat -1002111810768
+2025-06-16 09:00:56,510 - INFO - Message sent successfully to chat -1001927958845
+2025-06-16 09:00:57,358 - INFO - Message sent successfully to chat -1002098871252
+2025-06-16 09:00:57,569 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-16 09:00:57,726 - INFO - Message sent successfully to chat -1001927958845
+2025-06-16 09:00:57,959 - INFO - Message sent successfully to chat -1002098871252
+2025-06-16 09:00:58,026 - INFO - Message sent successfully to chat -1002111810768
+2025-06-16 09:00:58,037 - INFO - Message sent successfully to chat -1001508552538
+2025-06-16 09:00:58,260 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-16 09:00:58,677 - INFO - Message sent successfully to chat -1002111810768
+2025-06-16 09:00:58,885 - INFO - Message sent successfully to chat -1001927958845
+2025-06-16 09:00:59,037 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-16 09:00:59,149 - INFO - Message sent successfully to chat -1001508552538
+2025-06-16 09:00:59,379 - INFO - Message sent successfully to chat -1001927958845
+2025-06-16 09:00:59,440 - INFO - Message sent successfully to chat -1002098871252
+2025-06-16 09:01:00,137 - INFO - Message sent successfully to chat -1002098871252
+2025-06-16 09:01:00,149 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-16 09:01:00,327 - INFO - Message sent successfully to chat -1001508552538
+2025-06-16 09:01:00,789 - INFO - Message sent successfully to chat -1001508552538
+2025-06-16 09:01:00,863 - INFO - Message sent successfully to chat -1001927958845
+2025-06-16 09:01:01,327 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-16 09:01:01,637 - INFO - Message sent successfully to chat -1001927958845
+2025-06-16 09:01:01,789 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-16 09:01:02,361 - INFO - Message sent successfully to chat -1001508552538
+2025-06-16 09:01:03,149 - INFO - Message sent successfully to chat -1001508552538
+2025-06-16 09:01:03,361 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-16 09:01:04,150 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-16 11:41:16,322 - INFO - ==================================================
+2025-06-16 11:41:16,325 - INFO - Telegram Promotional Bot Starting
+2025-06-16 11:41:16,325 - INFO - ==================================================
+2025-06-16 11:41:16,325 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 11:41:16,683 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 11:41:16,683 - INFO - Setting up message schedule...
+2025-06-16 11:41:16,684 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-16 11:41:16,684 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-16 11:41:16,684 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-16 11:41:16,684 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-16 11:41:16,684 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-16 11:41:16,684 - INFO - Total scheduled times: 5
+2025-06-16 11:41:16,685 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-16 11:41:16,685 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-16 11:41:16,685 - INFO -   - Daily at 09:00
+2025-06-16 11:41:16,685 - INFO -   - Daily at 13:00
+2025-06-16 11:41:16,685 - INFO -   - Daily at 15:30
+2025-06-16 11:41:16,685 - INFO -   - Daily at 17:00
+2025-06-16 11:41:16,685 - INFO -   - Daily at 21:00
+2025-06-16 11:41:16,685 - INFO - Next scheduled broadcast: 2025-06-16 13:00:00
+2025-06-16 11:41:16,685 - INFO - Timezone: GMT+3
+2025-06-16 11:41:16,685 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-16 11:41:16,686 - INFO - Schedule management commands:
+2025-06-16 11:41:16,686 - INFO -   python telegram_bot.py --list-schedule
+2025-06-16 11:41:16,686 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-16 11:41:16,686 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-16 11:41:16,686 - INFO -   python telegram_bot.py --test-send
+2025-06-16 11:41:16,969 - INFO - ==================================================
+2025-06-16 11:41:16,969 - INFO - Telegram Promotional Bot Starting
+2025-06-16 11:41:16,969 - INFO - ==================================================
+2025-06-16 11:41:16,970 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-16 11:41:17,340 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-16 11:41:17,340 - INFO - Setting up message schedule...
+2025-06-16 11:41:17,341 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-16 11:41:17,341 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-16 11:41:17,341 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-16 11:41:17,341 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-16 11:41:17,341 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-16 11:41:17,341 - INFO - Total scheduled times: 5
+2025-06-16 11:41:17,342 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-16 11:41:17,342 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-16 11:41:17,342 - INFO -   - Daily at 09:00
+2025-06-16 11:41:17,342 - INFO -   - Daily at 13:00
+2025-06-16 11:41:17,342 - INFO -   - Daily at 15:30
+2025-06-16 11:41:17,342 - INFO -   - Daily at 17:00
+2025-06-16 11:41:17,342 - INFO -   - Daily at 21:00
+2025-06-16 11:41:17,342 - INFO - Next scheduled broadcast: 2025-06-16 13:00:00
+2025-06-16 11:41:17,343 - INFO - Timezone: GMT+3
+2025-06-16 11:41:17,343 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-16 11:41:17,343 - INFO - Schedule management commands:
+2025-06-16 11:41:17,343 - INFO -   python telegram_bot.py --list-schedule
+2025-06-16 11:41:17,343 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-16 11:41:17,343 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-16 11:41:17,343 - INFO -   python telegram_bot.py --test-send
+2025-06-18 05:26:08,573 - INFO - ==================================================
+2025-06-18 05:26:08,574 - INFO - Telegram Promotional Bot Starting
+2025-06-18 05:26:08,574 - INFO - ==================================================
+2025-06-18 05:26:08,575 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-18 05:26:08,967 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-18 05:26:08,968 - INFO - Setting up message schedule...
+2025-06-18 05:26:08,968 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-18 05:26:08,968 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-18 05:26:08,969 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-18 05:26:08,969 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-18 05:26:08,969 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-18 05:26:08,969 - INFO - Total scheduled times: 5
+2025-06-18 05:26:08,969 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-18 05:26:08,969 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-18 05:26:08,970 - INFO -   - Daily at 09:00
+2025-06-18 05:26:08,970 - INFO -   - Daily at 13:00
+2025-06-18 05:26:08,970 - INFO -   - Daily at 15:30
+2025-06-18 05:26:08,970 - INFO -   - Daily at 17:00
+2025-06-18 05:26:08,970 - INFO -   - Daily at 21:00
+2025-06-18 05:26:08,970 - INFO - Next scheduled broadcast: 2025-06-18 09:00:00
+2025-06-18 05:26:08,970 - INFO - Timezone: GMT+3
+2025-06-18 05:26:08,970 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-18 05:26:08,970 - INFO - Schedule management commands:
+2025-06-18 05:26:08,971 - INFO -   python telegram_bot.py --list-schedule
+2025-06-18 05:26:08,971 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-18 05:26:08,971 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-18 05:26:08,971 - INFO -   python telegram_bot.py --test-send
+2025-06-18 05:26:09,183 - INFO - ==================================================
+2025-06-18 05:26:09,183 - INFO - Telegram Promotional Bot Starting
+2025-06-18 05:26:09,183 - INFO - ==================================================
+2025-06-18 05:26:09,183 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-18 05:26:09,548 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-18 05:26:09,548 - INFO - Setting up message schedule...
+2025-06-18 05:26:09,549 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-18 05:26:09,549 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-18 05:26:09,549 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-18 05:26:09,549 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-18 05:26:09,549 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-18 05:26:09,549 - INFO - Total scheduled times: 5
+2025-06-18 05:26:09,550 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-18 05:26:09,550 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-18 05:26:09,550 - INFO -   - Daily at 09:00
+2025-06-18 05:26:09,550 - INFO -   - Daily at 13:00
+2025-06-18 05:26:09,550 - INFO -   - Daily at 15:30
+2025-06-18 05:26:09,550 - INFO -   - Daily at 17:00
+2025-06-18 05:26:09,550 - INFO -   - Daily at 21:00
+2025-06-18 05:26:09,550 - INFO - Next scheduled broadcast: 2025-06-18 09:00:00
+2025-06-18 05:26:09,550 - INFO - Timezone: GMT+3
+2025-06-18 05:26:09,550 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-18 05:26:09,551 - INFO - Schedule management commands:
+2025-06-18 05:26:09,551 - INFO -   python telegram_bot.py --list-schedule
+2025-06-18 05:26:09,551 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-18 05:26:09,551 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-18 05:26:09,551 - INFO -   python telegram_bot.py --test-send
+2025-06-18 05:28:39,396 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-18 05:28:39,760 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-18 05:28:39,761 - INFO - Starting scheduled message broadcast at 05:28 to all groups
+2025-06-18 05:28:40,233 - INFO - Message sent successfully to chat -1002111810768
+2025-06-18 05:28:41,649 - INFO - Message sent successfully to chat -1002098871252
+2025-06-18 05:28:43,065 - INFO - Message sent successfully to chat -1001927958845
+2025-06-18 05:28:44,646 - INFO - Message sent successfully to chat -1001508552538
+2025-06-18 05:28:45,647 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-18 09:00:08,993 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-18 09:00:09,513 - INFO - Message sent successfully to chat -1002111810768
+2025-06-18 09:00:09,581 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-18 09:00:10,080 - INFO - Message sent successfully to chat -1002111810768
+2025-06-18 09:00:11,162 - INFO - Message sent successfully to chat -1002098871252
+2025-06-18 09:00:11,558 - INFO - Message sent successfully to chat -1002098871252
+2025-06-18 09:00:12,625 - INFO - Message sent successfully to chat -1001927958845
+2025-06-18 09:00:13,104 - INFO - Message sent successfully to chat -1001927958845
+2025-06-18 09:00:14,236 - INFO - Message sent successfully to chat -1001508552538
+2025-06-18 09:00:14,590 - INFO - Message sent successfully to chat -1001508552538
+2025-06-18 09:00:15,237 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-18 09:00:15,590 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-18 11:39:56,548 - INFO - ==================================================
+2025-06-18 11:39:56,552 - INFO - Telegram Promotional Bot Starting
+2025-06-18 11:39:56,552 - INFO - ==================================================
+2025-06-18 11:39:56,552 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-18 11:39:56,910 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-18 11:39:56,911 - INFO - Setting up message schedule...
+2025-06-18 11:39:56,912 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-18 11:39:56,912 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-18 11:39:56,912 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-18 11:39:56,912 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-18 11:39:56,912 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-18 11:39:56,912 - INFO - Total scheduled times: 5
+2025-06-18 11:39:56,913 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-18 11:39:56,913 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-18 11:39:56,913 - INFO -   - Daily at 09:00
+2025-06-18 11:39:56,913 - INFO -   - Daily at 13:00
+2025-06-18 11:39:56,913 - INFO -   - Daily at 15:30
+2025-06-18 11:39:56,913 - INFO -   - Daily at 17:00
+2025-06-18 11:39:56,913 - INFO -   - Daily at 21:00
+2025-06-18 11:39:56,913 - INFO - Next scheduled broadcast: 2025-06-18 13:00:00
+2025-06-18 11:39:56,913 - INFO - Timezone: GMT+3
+2025-06-18 11:39:56,914 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-18 11:39:56,914 - INFO - Schedule management commands:
+2025-06-18 11:39:56,914 - INFO -   python telegram_bot.py --list-schedule
+2025-06-18 11:39:56,914 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-18 11:39:56,914 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-18 11:39:56,914 - INFO -   python telegram_bot.py --test-send
+2025-06-18 11:39:57,247 - INFO - ==================================================
+2025-06-18 11:39:57,248 - INFO - Telegram Promotional Bot Starting
+2025-06-18 11:39:57,248 - INFO - ==================================================
+2025-06-18 11:39:57,248 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-18 11:39:57,603 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-18 11:39:57,604 - INFO - Setting up message schedule...
+2025-06-18 11:39:57,604 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-18 11:39:57,605 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-18 11:39:57,605 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-18 11:39:57,605 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-18 11:39:57,605 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-18 11:39:57,605 - INFO - Total scheduled times: 5
+2025-06-18 11:39:57,605 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-18 11:39:57,606 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-18 11:39:57,606 - INFO -   - Daily at 09:00
+2025-06-18 11:39:57,606 - INFO -   - Daily at 13:00
+2025-06-18 11:39:57,606 - INFO -   - Daily at 15:30
+2025-06-18 11:39:57,606 - INFO -   - Daily at 17:00
+2025-06-18 11:39:57,606 - INFO -   - Daily at 21:00
+2025-06-18 11:39:57,606 - INFO - Next scheduled broadcast: 2025-06-18 13:00:00
+2025-06-18 11:39:57,606 - INFO - Timezone: GMT+3
+2025-06-18 11:39:57,606 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-18 11:39:57,606 - INFO - Schedule management commands:
+2025-06-18 11:39:57,606 - INFO -   python telegram_bot.py --list-schedule
+2025-06-18 11:39:57,607 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-18 11:39:57,607 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-18 11:39:57,607 - INFO -   python telegram_bot.py --test-send
+2025-06-18 11:40:32,138 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-18 11:40:32,497 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-18 11:40:32,502 - INFO - Starting scheduled message broadcast at 11:40 to all groups
+2025-06-18 11:40:32,918 - INFO - Message sent successfully to chat -1002111810768
+2025-06-18 11:40:34,336 - INFO - Message sent successfully to chat -1002098871252
+2025-06-18 11:40:35,745 - INFO - Message sent successfully to chat -1001927958845
+2025-06-18 11:40:37,165 - INFO - Message sent successfully to chat -1001508552538
+2025-06-18 11:40:38,166 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-19 05:11:58,449 - INFO - ==================================================
+2025-06-19 05:11:58,452 - INFO - Telegram Promotional Bot Starting
+2025-06-19 05:11:58,452 - INFO - ==================================================
+2025-06-19 05:11:58,452 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-19 05:11:58,800 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-19 05:11:58,800 - INFO - Setting up message schedule...
+2025-06-19 05:11:58,800 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-19 05:11:58,801 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-19 05:11:58,801 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-19 05:11:58,801 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-19 05:11:58,801 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-19 05:11:58,801 - INFO - Total scheduled times: 5
+2025-06-19 05:11:58,801 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-19 05:11:58,802 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-19 05:11:58,802 - INFO -   - Daily at 09:00
+2025-06-19 05:11:58,802 - INFO -   - Daily at 13:00
+2025-06-19 05:11:58,802 - INFO -   - Daily at 15:30
+2025-06-19 05:11:58,802 - INFO -   - Daily at 17:00
+2025-06-19 05:11:58,802 - INFO -   - Daily at 21:00
+2025-06-19 05:11:58,802 - INFO - Next scheduled broadcast: 2025-06-19 09:00:00
+2025-06-19 05:11:58,802 - INFO - Timezone: GMT+3
+2025-06-19 05:11:58,802 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-19 05:11:58,802 - INFO - Schedule management commands:
+2025-06-19 05:11:58,802 - INFO -   python telegram_bot.py --list-schedule
+2025-06-19 05:11:58,803 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-19 05:11:58,803 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-19 05:11:58,803 - INFO -   python telegram_bot.py --test-send
+2025-06-19 05:11:59,730 - INFO - ==================================================
+2025-06-19 05:11:59,731 - INFO - Telegram Promotional Bot Starting
+2025-06-19 05:11:59,731 - INFO - ==================================================
+2025-06-19 05:11:59,731 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-19 05:12:00,082 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-19 05:12:00,083 - INFO - Setting up message schedule...
+2025-06-19 05:12:00,084 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-19 05:12:00,084 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-19 05:12:00,084 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-19 05:12:00,084 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-19 05:12:00,084 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-19 05:12:00,085 - INFO - Total scheduled times: 5
+2025-06-19 05:12:00,086 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-19 05:12:00,086 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-19 05:12:00,086 - INFO -   - Daily at 09:00
+2025-06-19 05:12:00,086 - INFO -   - Daily at 13:00
+2025-06-19 05:12:00,086 - INFO -   - Daily at 15:30
+2025-06-19 05:12:00,086 - INFO -   - Daily at 17:00
+2025-06-19 05:12:00,086 - INFO -   - Daily at 21:00
+2025-06-19 05:12:00,086 - INFO - Next scheduled broadcast: 2025-06-19 09:00:00
+2025-06-19 05:12:00,086 - INFO - Timezone: GMT+3
+2025-06-19 05:12:00,087 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-19 05:12:00,087 - INFO - Schedule management commands:
+2025-06-19 05:12:00,087 - INFO -   python telegram_bot.py --list-schedule
+2025-06-19 05:12:00,087 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-19 05:12:00,087 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-19 05:12:00,087 - INFO -   python telegram_bot.py --test-send
+2025-06-19 07:51:10,779 - INFO - ==================================================
+2025-06-19 07:51:10,780 - INFO - Telegram Promotional Bot Starting
+2025-06-19 07:51:10,780 - INFO - ==================================================
+2025-06-19 07:51:10,781 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-19 07:51:11,143 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-19 07:51:11,143 - INFO - Setting up message schedule...
+2025-06-19 07:51:11,144 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-19 07:51:11,144 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-19 07:51:11,144 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-19 07:51:11,144 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-19 07:51:11,144 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-19 07:51:11,144 - INFO - Total scheduled times: 5
+2025-06-19 07:51:11,145 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-19 07:51:11,146 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-19 07:51:11,146 - INFO -   - Daily at 09:00
+2025-06-19 07:51:11,146 - INFO -   - Daily at 13:00
+2025-06-19 07:51:11,146 - INFO -   - Daily at 15:30
+2025-06-19 07:51:11,146 - INFO -   - Daily at 17:00
+2025-06-19 07:51:11,146 - INFO -   - Daily at 21:00
+2025-06-19 07:51:11,146 - INFO - Next scheduled broadcast: 2025-06-19 09:00:00
+2025-06-19 07:51:11,146 - INFO - Timezone: GMT+3
+2025-06-19 07:51:11,146 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-19 07:51:11,146 - INFO - Schedule management commands:
+2025-06-19 07:51:11,147 - INFO -   python telegram_bot.py --list-schedule
+2025-06-19 07:51:11,147 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-19 07:51:11,147 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-19 07:51:11,147 - INFO -   python telegram_bot.py --test-send
+2025-06-19 07:51:11,345 - INFO - ==================================================
+2025-06-19 07:51:11,346 - INFO - Telegram Promotional Bot Starting
+2025-06-19 07:51:11,346 - INFO - ==================================================
+2025-06-19 07:51:11,346 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-19 07:51:11,703 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-19 07:51:11,704 - INFO - Setting up message schedule...
+2025-06-19 07:51:11,704 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-19 07:51:11,704 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-19 07:51:11,704 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-19 07:51:11,705 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-19 07:51:11,705 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-19 07:51:11,705 - INFO - Total scheduled times: 5
+2025-06-19 07:51:11,705 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-19 07:51:11,705 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-19 07:51:11,705 - INFO -   - Daily at 09:00
+2025-06-19 07:51:11,705 - INFO -   - Daily at 13:00
+2025-06-19 07:51:11,706 - INFO -   - Daily at 15:30
+2025-06-19 07:51:11,706 - INFO -   - Daily at 17:00
+2025-06-19 07:51:11,706 - INFO -   - Daily at 21:00
+2025-06-19 07:51:11,706 - INFO - Next scheduled broadcast: 2025-06-19 09:00:00
+2025-06-19 07:51:11,706 - INFO - Timezone: GMT+3
+2025-06-19 07:51:11,706 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-19 07:51:11,706 - INFO - Schedule management commands:
+2025-06-19 07:51:11,706 - INFO -   python telegram_bot.py --list-schedule
+2025-06-19 07:51:11,706 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-19 07:51:11,706 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-19 07:51:11,706 - INFO -   python telegram_bot.py --test-send
+2025-06-19 07:51:41,146 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-19 07:51:41,502 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-19 07:51:41,502 - INFO - Starting scheduled message broadcast at 07:51 to all groups
+2025-06-19 07:51:41,906 - INFO - Message sent successfully to chat -1002111810768
+2025-06-19 07:51:43,328 - INFO - Message sent successfully to chat -1002098871252
+2025-06-19 07:51:44,723 - INFO - Message sent successfully to chat -1001927958845
+2025-06-19 07:51:46,135 - INFO - Message sent successfully to chat -1001508552538
+2025-06-19 07:51:47,136 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-20 06:15:02,819 - INFO - ==================================================
+2025-06-20 06:15:02,824 - INFO - Telegram Promotional Bot Starting
+2025-06-20 06:15:02,824 - INFO - ==================================================
+2025-06-20 06:15:02,824 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-20 06:15:03,181 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-20 06:15:03,181 - INFO - Setting up message schedule...
+2025-06-20 06:15:03,182 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-20 06:15:03,182 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-20 06:15:03,182 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-20 06:15:03,182 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-20 06:15:03,182 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-20 06:15:03,182 - INFO - Total scheduled times: 5
+2025-06-20 06:15:03,183 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-20 06:15:03,183 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-20 06:15:03,183 - INFO -   - Daily at 09:00
+2025-06-20 06:15:03,183 - INFO -   - Daily at 13:00
+2025-06-20 06:15:03,183 - INFO -   - Daily at 15:30
+2025-06-20 06:15:03,183 - INFO -   - Daily at 17:00
+2025-06-20 06:15:03,184 - INFO -   - Daily at 21:00
+2025-06-20 06:15:03,184 - INFO - Next scheduled broadcast: 2025-06-20 09:00:00
+2025-06-20 06:15:03,184 - INFO - Timezone: GMT+3
+2025-06-20 06:15:03,184 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-20 06:15:03,184 - INFO - Schedule management commands:
+2025-06-20 06:15:03,184 - INFO -   python telegram_bot.py --list-schedule
+2025-06-20 06:15:03,184 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-20 06:15:03,184 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-20 06:15:03,184 - INFO -   python telegram_bot.py --test-send
+2025-06-20 06:15:04,243 - INFO - ==================================================
+2025-06-20 06:15:04,243 - INFO - Telegram Promotional Bot Starting
+2025-06-20 06:15:04,243 - INFO - ==================================================
+2025-06-20 06:15:04,243 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-20 06:15:04,600 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-20 06:15:04,601 - INFO - Setting up message schedule...
+2025-06-20 06:15:04,601 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-20 06:15:04,606 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-20 06:15:04,606 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-20 06:15:04,606 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-20 06:15:04,606 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-20 06:15:04,606 - INFO - Total scheduled times: 5
+2025-06-20 06:15:04,606 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-20 06:15:04,606 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-20 06:15:04,606 - INFO -   - Daily at 09:00
+2025-06-20 06:15:04,607 - INFO -   - Daily at 13:00
+2025-06-20 06:15:04,607 - INFO -   - Daily at 15:30
+2025-06-20 06:15:04,607 - INFO -   - Daily at 17:00
+2025-06-20 06:15:04,607 - INFO -   - Daily at 21:00
+2025-06-20 06:15:04,607 - INFO - Next scheduled broadcast: 2025-06-20 09:00:00
+2025-06-20 06:15:04,607 - INFO - Timezone: GMT+3
+2025-06-20 06:15:04,607 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-20 06:15:04,607 - INFO - Schedule management commands:
+2025-06-20 06:15:04,607 - INFO -   python telegram_bot.py --list-schedule
+2025-06-20 06:15:04,607 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-20 06:15:04,607 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-20 06:15:04,607 - INFO -   python telegram_bot.py --test-send
+2025-06-20 06:17:41,712 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-20 06:17:42,077 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-20 06:17:42,077 - INFO - Starting scheduled message broadcast at 06:17 to all groups
+2025-06-20 06:17:42,477 - INFO - Message sent successfully to chat -1002111810768
+2025-06-20 06:17:43,891 - INFO - Message sent successfully to chat -1002098871252
+2025-06-20 06:17:45,304 - INFO - Message sent successfully to chat -1001927958845
+2025-06-20 06:17:46,718 - INFO - Message sent successfully to chat -1001508552538
+2025-06-20 06:17:47,719 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-20 09:00:03,212 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-20 09:00:03,688 - INFO - Message sent successfully to chat -1002111810768
+2025-06-20 09:00:04,631 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-06-20 09:00:05,046 - INFO - Message sent successfully to chat -1002111810768
+2025-06-20 09:00:05,125 - INFO - Message sent successfully to chat -1002098871252
+2025-06-20 09:00:06,466 - INFO - Message sent successfully to chat -1002098871252
+2025-06-20 09:00:06,651 - INFO - Message sent successfully to chat -1001927958845
+2025-06-20 09:00:07,875 - INFO - Message sent successfully to chat -1001927958845
+2025-06-20 09:00:08,071 - INFO - Message sent successfully to chat -1001508552538
+2025-06-20 09:00:09,071 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-20 09:00:09,317 - INFO - Message sent successfully to chat -1001508552538
+2025-06-20 09:00:10,317 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-23 05:28:04,128 - INFO - ==================================================
+2025-06-23 05:28:04,130 - INFO - Telegram Promotional Bot Starting
+2025-06-23 05:28:04,130 - INFO - ==================================================
+2025-06-23 05:28:04,130 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-23 05:28:04,490 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-23 05:28:04,490 - INFO - Setting up message schedule...
+2025-06-23 05:28:04,491 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-23 05:28:04,491 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-23 05:28:04,491 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-23 05:28:04,491 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-23 05:28:04,491 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-23 05:28:04,491 - INFO - Total scheduled times: 5
+2025-06-23 05:28:04,492 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-23 05:28:04,492 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-23 05:28:04,492 - INFO -   - Daily at 09:00
+2025-06-23 05:28:04,492 - INFO -   - Daily at 13:00
+2025-06-23 05:28:04,492 - INFO -   - Daily at 15:30
+2025-06-23 05:28:04,492 - INFO -   - Daily at 17:00
+2025-06-23 05:28:04,492 - INFO -   - Daily at 21:00
+2025-06-23 05:28:04,492 - INFO - Next scheduled broadcast: 2025-06-23 09:00:00
+2025-06-23 05:28:04,492 - INFO - Timezone: GMT+3
+2025-06-23 05:28:04,492 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-23 05:28:04,493 - INFO - Schedule management commands:
+2025-06-23 05:28:04,493 - INFO -   python telegram_bot.py --list-schedule
+2025-06-23 05:28:04,493 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-23 05:28:04,493 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-23 05:28:04,493 - INFO -   python telegram_bot.py --test-send
+2025-06-23 05:28:06,338 - INFO - ==================================================
+2025-06-23 05:28:06,338 - INFO - Telegram Promotional Bot Starting
+2025-06-23 05:28:06,338 - INFO - ==================================================
+2025-06-23 05:28:06,338 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-23 05:28:06,693 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-23 05:28:06,693 - INFO - Setting up message schedule...
+2025-06-23 05:28:06,694 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-23 05:28:06,694 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-23 05:28:06,694 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-23 05:28:06,694 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-23 05:28:06,694 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-23 05:28:06,694 - INFO - Total scheduled times: 5
+2025-06-23 05:28:06,695 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-23 05:28:06,695 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-23 05:28:06,695 - INFO -   - Daily at 09:00
+2025-06-23 05:28:06,695 - INFO -   - Daily at 13:00
+2025-06-23 05:28:06,695 - INFO -   - Daily at 15:30
+2025-06-23 05:28:06,695 - INFO -   - Daily at 17:00
+2025-06-23 05:28:06,695 - INFO -   - Daily at 21:00
+2025-06-23 05:28:06,695 - INFO - Next scheduled broadcast: 2025-06-23 09:00:00
+2025-06-23 05:28:06,695 - INFO - Timezone: GMT+3
+2025-06-23 05:28:06,696 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-23 05:28:06,696 - INFO - Schedule management commands:
+2025-06-23 05:28:06,696 - INFO -   python telegram_bot.py --list-schedule
+2025-06-23 05:28:06,696 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-23 05:28:06,696 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-23 05:28:06,696 - INFO -   python telegram_bot.py --test-send
+2025-06-23 05:28:45,193 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-23 05:28:45,550 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-23 05:28:45,550 - INFO - Starting scheduled message broadcast at 05:28 to all groups
+2025-06-23 05:28:45,952 - INFO - Message sent successfully to chat -1002111810768
+2025-06-23 05:28:47,365 - INFO - Message sent successfully to chat -1002098871252
+2025-06-23 05:28:48,764 - INFO - Message sent successfully to chat -1001927958845
+2025-06-23 05:28:50,172 - INFO - Message sent successfully to chat -1001508552538
+2025-06-23 05:28:51,172 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-25 12:09:09,464 - INFO - ==================================================
+2025-06-25 12:09:09,467 - INFO - Telegram Promotional Bot Starting
+2025-06-25 12:09:09,468 - INFO - ==================================================
+2025-06-25 12:09:09,468 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-25 12:09:09,817 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-25 12:09:09,818 - INFO - Setting up message schedule...
+2025-06-25 12:09:09,818 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-25 12:09:09,818 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-25 12:09:09,818 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-25 12:09:09,819 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-25 12:09:09,819 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-25 12:09:09,819 - INFO - Total scheduled times: 5
+2025-06-25 12:09:09,819 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-25 12:09:09,819 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-25 12:09:09,819 - INFO -   - Daily at 09:00
+2025-06-25 12:09:09,819 - INFO -   - Daily at 13:00
+2025-06-25 12:09:09,819 - INFO -   - Daily at 15:30
+2025-06-25 12:09:09,819 - INFO -   - Daily at 17:00
+2025-06-25 12:09:09,820 - INFO -   - Daily at 21:00
+2025-06-25 12:09:09,820 - INFO - Next scheduled broadcast: 2025-06-25 13:00:00
+2025-06-25 12:09:09,820 - INFO - Timezone: GMT+3
+2025-06-25 12:09:09,820 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-25 12:09:09,820 - INFO - Schedule management commands:
+2025-06-25 12:09:09,820 - INFO -   python telegram_bot.py --list-schedule
+2025-06-25 12:09:09,820 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-25 12:09:09,820 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-25 12:09:09,820 - INFO -   python telegram_bot.py --test-send
+2025-06-25 12:09:11,106 - INFO - ==================================================
+2025-06-25 12:09:11,106 - INFO - Telegram Promotional Bot Starting
+2025-06-25 12:09:11,106 - INFO - ==================================================
+2025-06-25 12:09:11,106 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-25 12:09:11,458 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-25 12:09:11,458 - INFO - Setting up message schedule...
+2025-06-25 12:09:11,459 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-25 12:09:11,459 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-25 12:09:11,459 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-25 12:09:11,459 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-25 12:09:11,459 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-25 12:09:11,459 - INFO - Total scheduled times: 5
+2025-06-25 12:09:11,459 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-25 12:09:11,460 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-25 12:09:11,460 - INFO -   - Daily at 09:00
+2025-06-25 12:09:11,460 - INFO -   - Daily at 13:00
+2025-06-25 12:09:11,460 - INFO -   - Daily at 15:30
+2025-06-25 12:09:11,460 - INFO -   - Daily at 17:00
+2025-06-25 12:09:11,460 - INFO -   - Daily at 21:00
+2025-06-25 12:09:11,460 - INFO - Next scheduled broadcast: 2025-06-25 13:00:00
+2025-06-25 12:09:11,460 - INFO - Timezone: GMT+3
+2025-06-25 12:09:11,460 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-25 12:09:11,460 - INFO - Schedule management commands:
+2025-06-25 12:09:11,460 - INFO -   python telegram_bot.py --list-schedule
+2025-06-25 12:09:11,460 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-25 12:09:11,460 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-25 12:09:11,461 - INFO -   python telegram_bot.py --test-send
+2025-06-25 12:10:15,665 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-25 12:10:16,017 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-25 12:10:16,017 - INFO - Starting scheduled message broadcast at 12:10 to all groups
+2025-06-25 12:10:16,413 - INFO - Message sent successfully to chat -1002111810768
+2025-06-25 12:10:17,838 - INFO - Message sent successfully to chat -1002098871252
+2025-06-25 12:10:19,392 - INFO - Message sent successfully to chat -1001927958845
+2025-06-25 12:10:20,823 - INFO - Message sent successfully to chat -1001508552538
+2025-06-25 12:10:21,824 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-26 12:28:09,775 - INFO - ==================================================
+2025-06-26 12:28:09,776 - INFO - Telegram Promotional Bot Starting
+2025-06-26 12:28:09,777 - INFO - ==================================================
+2025-06-26 12:28:09,777 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-26 12:28:10,125 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-26 12:28:10,127 - INFO - Setting up message schedule...
+2025-06-26 12:28:10,127 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-26 12:28:10,127 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-26 12:28:10,128 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-26 12:28:10,128 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-26 12:28:10,128 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-26 12:28:10,128 - INFO - Total scheduled times: 5
+2025-06-26 12:28:10,128 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-26 12:28:10,128 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-26 12:28:10,128 - INFO -   - Daily at 09:00
+2025-06-26 12:28:10,128 - INFO -   - Daily at 13:00
+2025-06-26 12:28:10,129 - INFO -   - Daily at 15:30
+2025-06-26 12:28:10,129 - INFO -   - Daily at 17:00
+2025-06-26 12:28:10,129 - INFO -   - Daily at 21:00
+2025-06-26 12:28:10,129 - INFO - Next scheduled broadcast: 2025-06-26 13:00:00
+2025-06-26 12:28:10,129 - INFO - Timezone: GMT+3
+2025-06-26 12:28:10,129 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-26 12:28:10,129 - INFO - Schedule management commands:
+2025-06-26 12:28:10,129 - INFO -   python telegram_bot.py --list-schedule
+2025-06-26 12:28:10,129 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-26 12:28:10,129 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-26 12:28:10,129 - INFO -   python telegram_bot.py --test-send
+2025-06-26 12:28:10,396 - INFO - ==================================================
+2025-06-26 12:28:10,397 - INFO - Telegram Promotional Bot Starting
+2025-06-26 12:28:10,397 - INFO - ==================================================
+2025-06-26 12:28:10,397 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-26 12:28:10,753 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-26 12:28:10,754 - INFO - Setting up message schedule...
+2025-06-26 12:28:10,754 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-26 12:28:10,755 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-26 12:28:10,755 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-26 12:28:10,755 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-26 12:28:10,755 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-26 12:28:10,755 - INFO - Total scheduled times: 5
+2025-06-26 12:28:10,756 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-26 12:28:10,756 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-26 12:28:10,756 - INFO -   - Daily at 09:00
+2025-06-26 12:28:10,756 - INFO -   - Daily at 13:00
+2025-06-26 12:28:10,756 - INFO -   - Daily at 15:30
+2025-06-26 12:28:10,756 - INFO -   - Daily at 17:00
+2025-06-26 12:28:10,756 - INFO -   - Daily at 21:00
+2025-06-26 12:28:10,756 - INFO - Next scheduled broadcast: 2025-06-26 13:00:00
+2025-06-26 12:28:10,756 - INFO - Timezone: GMT+3
+2025-06-26 12:28:10,757 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-26 12:28:10,757 - INFO - Schedule management commands:
+2025-06-26 12:28:10,757 - INFO -   python telegram_bot.py --list-schedule
+2025-06-26 12:28:10,757 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-26 12:28:10,757 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-26 12:28:10,757 - INFO -   python telegram_bot.py --test-send
+2025-06-26 12:28:34,217 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-26 12:28:34,566 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-26 12:28:34,567 - INFO - Starting scheduled message broadcast at 12:28 to all groups
+2025-06-26 12:28:35,091 - INFO - Message sent successfully to chat -1002111810768
+2025-06-26 12:28:36,498 - INFO - Message sent successfully to chat -1002098871252
+2025-06-26 12:28:37,888 - INFO - Message sent successfully to chat -1001927958845
+2025-06-26 12:28:39,279 - INFO - Message sent successfully to chat -1001508552538
+2025-06-26 12:28:40,286 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-29 12:38:05,806 - INFO - ==================================================
+2025-06-29 12:38:05,807 - INFO - Telegram Promotional Bot Starting
+2025-06-29 12:38:05,807 - INFO - ==================================================
+2025-06-29 12:38:05,807 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-29 12:38:06,155 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-29 12:38:06,156 - INFO - Setting up message schedule...
+2025-06-29 12:38:06,156 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-29 12:38:06,156 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-29 12:38:06,156 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-29 12:38:06,157 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-29 12:38:06,157 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-29 12:38:06,157 - INFO - Total scheduled times: 5
+2025-06-29 12:38:06,157 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-29 12:38:06,157 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-29 12:38:06,157 - INFO -   - Daily at 09:00
+2025-06-29 12:38:06,157 - INFO -   - Daily at 13:00
+2025-06-29 12:38:06,158 - INFO -   - Daily at 15:30
+2025-06-29 12:38:06,158 - INFO -   - Daily at 17:00
+2025-06-29 12:38:06,158 - INFO -   - Daily at 21:00
+2025-06-29 12:38:06,158 - INFO - Next scheduled broadcast: 2025-06-29 13:00:00
+2025-06-29 12:38:06,158 - INFO - Timezone: GMT+3
+2025-06-29 12:38:06,158 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-29 12:38:06,158 - INFO - Schedule management commands:
+2025-06-29 12:38:06,158 - INFO -   python telegram_bot.py --list-schedule
+2025-06-29 12:38:06,159 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-29 12:38:06,160 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-29 12:38:06,160 - INFO -   python telegram_bot.py --test-send
+2025-06-29 12:38:06,830 - INFO - ==================================================
+2025-06-29 12:38:06,831 - INFO - Telegram Promotional Bot Starting
+2025-06-29 12:38:06,831 - INFO - ==================================================
+2025-06-29 12:38:06,831 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-29 12:38:07,180 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-29 12:38:07,181 - INFO - Setting up message schedule...
+2025-06-29 12:38:07,181 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-29 12:38:07,181 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-29 12:38:07,182 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-29 12:38:07,182 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-29 12:38:07,182 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-29 12:38:07,182 - INFO - Total scheduled times: 5
+2025-06-29 12:38:07,182 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-29 12:38:07,182 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-29 12:38:07,183 - INFO -   - Daily at 09:00
+2025-06-29 12:38:07,183 - INFO -   - Daily at 13:00
+2025-06-29 12:38:07,183 - INFO -   - Daily at 15:30
+2025-06-29 12:38:07,183 - INFO -   - Daily at 17:00
+2025-06-29 12:38:07,183 - INFO -   - Daily at 21:00
+2025-06-29 12:38:07,183 - INFO - Next scheduled broadcast: 2025-06-29 13:00:00
+2025-06-29 12:38:07,183 - INFO - Timezone: GMT+3
+2025-06-29 12:38:07,183 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-29 12:38:07,183 - INFO - Schedule management commands:
+2025-06-29 12:38:07,184 - INFO -   python telegram_bot.py --list-schedule
+2025-06-29 12:38:07,184 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-29 12:38:07,184 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-29 12:38:07,184 - INFO -   python telegram_bot.py --test-send
+2025-06-29 12:38:40,833 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-29 12:38:41,179 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-29 12:38:41,180 - INFO - Starting scheduled message broadcast at 12:38 to all groups
+2025-06-29 12:38:41,577 - INFO - Message sent successfully to chat -1002111810768
+2025-06-29 12:38:42,991 - INFO - Message sent successfully to chat -1002098871252
+2025-06-29 12:38:44,387 - INFO - Message sent successfully to chat -1001927958845
+2025-06-29 12:38:45,781 - INFO - Message sent successfully to chat -1001508552538
+2025-06-29 12:38:46,782 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-29 13:00:06,170 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-06-29 13:00:06,602 - INFO - Message sent successfully to chat -1002111810768
+2025-06-29 13:00:07,187 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-06-29 13:00:07,593 - INFO - Message sent successfully to chat -1002111810768
+2025-06-29 13:00:07,999 - INFO - Message sent successfully to chat -1002098871252
+2025-06-29 13:00:08,994 - INFO - Message sent successfully to chat -1002098871252
+2025-06-29 13:00:09,496 - INFO - Message sent successfully to chat -1001927958845
+2025-06-29 13:00:10,387 - INFO - Message sent successfully to chat -1001927958845
+2025-06-29 13:00:10,888 - INFO - Message sent successfully to chat -1001508552538
+2025-06-29 13:00:11,781 - INFO - Message sent successfully to chat -1001508552538
+2025-06-29 13:00:11,888 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-29 13:00:12,782 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-06-30 08:39:23,344 - INFO - ==================================================
+2025-06-30 08:39:23,344 - INFO - Telegram Promotional Bot Starting
+2025-06-30 08:39:23,345 - INFO - ==================================================
+2025-06-30 08:39:23,345 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-30 08:39:23,696 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-30 08:39:23,696 - INFO - Setting up message schedule...
+2025-06-30 08:39:23,697 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-30 08:39:23,698 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-30 08:39:23,698 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-30 08:39:23,701 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-30 08:39:23,701 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-30 08:39:23,701 - INFO - Total scheduled times: 5
+2025-06-30 08:39:23,702 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-30 08:39:23,702 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-30 08:39:23,702 - INFO -   - Daily at 09:00
+2025-06-30 08:39:23,702 - INFO -   - Daily at 13:00
+2025-06-30 08:39:23,702 - INFO -   - Daily at 15:30
+2025-06-30 08:39:23,702 - INFO -   - Daily at 17:00
+2025-06-30 08:39:23,702 - INFO -   - Daily at 21:00
+2025-06-30 08:39:23,703 - INFO - Next scheduled broadcast: 2025-06-30 09:00:00
+2025-06-30 08:39:23,703 - INFO - Timezone: GMT+3
+2025-06-30 08:39:23,703 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-30 08:39:23,703 - INFO - Schedule management commands:
+2025-06-30 08:39:23,703 - INFO -   python telegram_bot.py --list-schedule
+2025-06-30 08:39:23,703 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-30 08:39:23,703 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-30 08:39:23,703 - INFO -   python telegram_bot.py --test-send
+2025-06-30 08:39:24,764 - INFO - ==================================================
+2025-06-30 08:39:24,765 - INFO - Telegram Promotional Bot Starting
+2025-06-30 08:39:24,765 - INFO - ==================================================
+2025-06-30 08:39:24,765 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-30 08:39:25,110 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-30 08:39:25,110 - INFO - Setting up message schedule...
+2025-06-30 08:39:25,111 - INFO - Scheduled daily message broadcast at 09:00
+2025-06-30 08:39:25,111 - INFO - Scheduled daily message broadcast at 13:00
+2025-06-30 08:39:25,111 - INFO - Scheduled daily message broadcast at 15:30
+2025-06-30 08:39:25,111 - INFO - Scheduled daily message broadcast at 17:00
+2025-06-30 08:39:25,111 - INFO - Scheduled daily message broadcast at 21:00
+2025-06-30 08:39:25,111 - INFO - Total scheduled times: 5
+2025-06-30 08:39:25,112 - INFO - Schedule configuration saved to schedule_config.json
+2025-06-30 08:39:25,112 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-06-30 08:39:25,112 - INFO -   - Daily at 09:00
+2025-06-30 08:39:25,112 - INFO -   - Daily at 13:00
+2025-06-30 08:39:25,112 - INFO -   - Daily at 15:30
+2025-06-30 08:39:25,112 - INFO -   - Daily at 17:00
+2025-06-30 08:39:25,112 - INFO -   - Daily at 21:00
+2025-06-30 08:39:25,112 - INFO - Next scheduled broadcast: 2025-06-30 09:00:00
+2025-06-30 08:39:25,112 - INFO - Timezone: GMT+3
+2025-06-30 08:39:25,113 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-06-30 08:39:25,113 - INFO - Schedule management commands:
+2025-06-30 08:39:25,113 - INFO -   python telegram_bot.py --list-schedule
+2025-06-30 08:39:25,113 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-06-30 08:39:25,113 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-06-30 08:39:25,113 - INFO -   python telegram_bot.py --test-send
+2025-06-30 08:39:47,295 - INFO - Schedule configuration loaded from schedule_config.json
+2025-06-30 08:39:47,641 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-06-30 08:39:47,642 - INFO - Starting scheduled message broadcast at 08:39 to all groups
+2025-06-30 08:39:48,212 - INFO - Message sent successfully to chat -1002111810768
+2025-06-30 08:39:49,696 - INFO - Message sent successfully to chat -1002098871252
+2025-06-30 08:39:51,101 - INFO - Message sent successfully to chat -1001927958845
+2025-06-30 08:39:52,593 - INFO - Message sent successfully to chat -1001508552538
+2025-06-30 08:39:53,594 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-03 12:41:50,648 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-03 12:41:51,014 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-03 12:41:51,015 - INFO - Starting scheduled message broadcast at 12:41 to all groups
+2025-07-03 12:41:51,415 - INFO - Message sent successfully to chat -1002111810768
+2025-07-03 12:41:52,821 - INFO - Message sent successfully to chat -1002098871252
+2025-07-03 12:41:54,225 - INFO - Message sent successfully to chat -1001927958845
+2025-07-03 12:41:55,626 - INFO - Message sent successfully to chat -1001508552538
+2025-07-03 12:41:56,627 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-05 06:34:05,021 - INFO - ==================================================
+2025-07-05 06:34:05,023 - INFO - Telegram Promotional Bot Starting
+2025-07-05 06:34:05,023 - INFO - ==================================================
+2025-07-05 06:34:05,024 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-05 06:34:05,371 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-05 06:34:05,372 - INFO - Setting up message schedule...
+2025-07-05 06:34:05,373 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-05 06:34:05,373 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-05 06:34:05,373 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-05 06:34:05,373 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-05 06:34:05,373 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-05 06:34:05,373 - INFO - Total scheduled times: 5
+2025-07-05 06:34:05,374 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-05 06:34:05,374 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-05 06:34:05,374 - INFO -   - Daily at 09:00
+2025-07-05 06:34:05,374 - INFO -   - Daily at 13:00
+2025-07-05 06:34:05,374 - INFO -   - Daily at 15:30
+2025-07-05 06:34:05,374 - INFO -   - Daily at 17:00
+2025-07-05 06:34:05,374 - INFO -   - Daily at 21:00
+2025-07-05 06:34:05,374 - INFO - Next scheduled broadcast: 2025-07-05 09:00:00
+2025-07-05 06:34:05,374 - INFO - Timezone: GMT+3
+2025-07-05 06:34:05,374 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-05 06:34:05,374 - INFO - Schedule management commands:
+2025-07-05 06:34:05,374 - INFO -   python telegram_bot.py --list-schedule
+2025-07-05 06:34:05,375 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-05 06:34:05,375 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-05 06:34:05,375 - INFO -   python telegram_bot.py --test-send
+2025-07-05 06:34:05,637 - INFO - ==================================================
+2025-07-05 06:34:05,637 - INFO - Telegram Promotional Bot Starting
+2025-07-05 06:34:05,637 - INFO - ==================================================
+2025-07-05 06:34:05,638 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-05 06:34:05,986 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-05 06:34:05,986 - INFO - Setting up message schedule...
+2025-07-05 06:34:05,986 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-05 06:34:05,987 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-05 06:34:05,987 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-05 06:34:05,987 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-05 06:34:05,987 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-05 06:34:05,987 - INFO - Total scheduled times: 5
+2025-07-05 06:34:05,987 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-05 06:34:05,987 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-05 06:34:05,988 - INFO -   - Daily at 09:00
+2025-07-05 06:34:05,988 - INFO -   - Daily at 13:00
+2025-07-05 06:34:05,988 - INFO -   - Daily at 15:30
+2025-07-05 06:34:05,988 - INFO -   - Daily at 17:00
+2025-07-05 06:34:05,988 - INFO -   - Daily at 21:00
+2025-07-05 06:34:05,988 - INFO - Next scheduled broadcast: 2025-07-05 09:00:00
+2025-07-05 06:34:05,988 - INFO - Timezone: GMT+3
+2025-07-05 06:34:05,988 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-05 06:34:05,988 - INFO - Schedule management commands:
+2025-07-05 06:34:05,988 - INFO -   python telegram_bot.py --list-schedule
+2025-07-05 06:34:05,988 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-05 06:34:05,989 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-05 06:34:05,989 - INFO -   python telegram_bot.py --test-send
+2025-07-05 06:34:42,036 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-05 06:34:42,385 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-05 06:34:42,386 - INFO - Starting scheduled message broadcast at 06:34 to all groups
+2025-07-05 06:34:42,772 - INFO - Message sent successfully to chat -1002111810768
+2025-07-05 06:34:44,228 - INFO - Message sent successfully to chat -1002098871252
+2025-07-05 06:34:45,696 - INFO - Message sent successfully to chat -1001927958845
+2025-07-05 06:34:47,247 - INFO - Message sent successfully to chat -1001508552538
+2025-07-05 06:34:48,248 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 06:52:31,984 - INFO - ==================================================
+2025-07-06 06:52:31,987 - INFO - Telegram Promotional Bot Starting
+2025-07-06 06:52:31,987 - INFO - ==================================================
+2025-07-06 06:52:31,987 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-06 06:52:32,342 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-06 06:52:32,342 - INFO - Setting up message schedule...
+2025-07-06 06:52:32,343 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-06 06:52:32,343 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-06 06:52:32,343 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-06 06:52:32,343 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-06 06:52:32,343 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-06 06:52:32,343 - INFO - Total scheduled times: 5
+2025-07-06 06:52:32,343 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-06 06:52:32,344 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-06 06:52:32,344 - INFO -   - Daily at 09:00
+2025-07-06 06:52:32,344 - INFO -   - Daily at 13:00
+2025-07-06 06:52:32,344 - INFO -   - Daily at 15:30
+2025-07-06 06:52:32,344 - INFO -   - Daily at 17:00
+2025-07-06 06:52:32,344 - INFO -   - Daily at 21:00
+2025-07-06 06:52:32,344 - INFO - Next scheduled broadcast: 2025-07-06 09:00:00
+2025-07-06 06:52:32,344 - INFO - Timezone: GMT+3
+2025-07-06 06:52:32,344 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-06 06:52:32,344 - INFO - Schedule management commands:
+2025-07-06 06:52:32,344 - INFO -   python telegram_bot.py --list-schedule
+2025-07-06 06:52:32,344 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-06 06:52:32,344 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-06 06:52:32,344 - INFO -   python telegram_bot.py --test-send
+2025-07-06 06:52:32,819 - INFO - ==================================================
+2025-07-06 06:52:32,820 - INFO - Telegram Promotional Bot Starting
+2025-07-06 06:52:32,820 - INFO - ==================================================
+2025-07-06 06:52:32,820 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-06 06:52:33,167 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-06 06:52:33,167 - INFO - Setting up message schedule...
+2025-07-06 06:52:33,168 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-06 06:52:33,168 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-06 06:52:33,168 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-06 06:52:33,168 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-06 06:52:33,168 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-06 06:52:33,168 - INFO - Total scheduled times: 5
+2025-07-06 06:52:33,169 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-06 06:52:33,169 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-06 06:52:33,169 - INFO -   - Daily at 09:00
+2025-07-06 06:52:33,169 - INFO -   - Daily at 13:00
+2025-07-06 06:52:33,169 - INFO -   - Daily at 15:30
+2025-07-06 06:52:33,169 - INFO -   - Daily at 17:00
+2025-07-06 06:52:33,169 - INFO -   - Daily at 21:00
+2025-07-06 06:52:33,169 - INFO - Next scheduled broadcast: 2025-07-06 09:00:00
+2025-07-06 06:52:33,169 - INFO - Timezone: GMT+3
+2025-07-06 06:52:33,169 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-06 06:52:33,169 - INFO - Schedule management commands:
+2025-07-06 06:52:33,169 - INFO -   python telegram_bot.py --list-schedule
+2025-07-06 06:52:33,170 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-06 06:52:33,170 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-06 06:52:33,170 - INFO -   python telegram_bot.py --test-send
+2025-07-06 06:53:05,441 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-06 06:53:05,792 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-06 06:53:05,792 - INFO - Starting scheduled message broadcast at 06:53 to all groups
+2025-07-06 06:53:06,309 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 06:53:07,730 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 06:53:09,111 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 06:53:10,511 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 06:53:11,514 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 09:00:32,366 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-07-06 09:00:32,757 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 09:00:33,185 - INFO - Starting scheduled message broadcast at 09:00 to all groups
+2025-07-06 09:00:33,580 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 09:00:34,169 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 09:00:35,000 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 09:00:35,549 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 09:00:36,391 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 09:00:36,957 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 09:00:37,900 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 09:00:37,958 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 09:00:38,902 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 13:00:38,015 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-07-06 13:00:38,425 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 13:00:38,946 - INFO - Starting scheduled message broadcast at 13:00 to all groups
+2025-07-06 13:00:39,330 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 13:00:39,893 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 13:00:40,734 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 13:00:41,283 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 13:00:42,135 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 13:00:42,785 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 13:00:43,545 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 13:00:43,786 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 13:00:44,546 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 15:30:43,811 - INFO - Starting scheduled message broadcast at 15:30 to all groups
+2025-07-06 15:30:44,210 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 15:30:44,564 - INFO - Starting scheduled message broadcast at 15:30 to all groups
+2025-07-06 15:30:44,982 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 15:30:45,633 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 15:30:46,387 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 15:30:47,029 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 15:30:47,774 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 15:30:48,584 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 15:30:49,243 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 15:30:49,585 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 15:30:50,243 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 17:00:49,597 - INFO - Starting scheduled message broadcast at 17:00 to all groups
+2025-07-06 17:00:50,190 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 17:00:50,257 - INFO - Starting scheduled message broadcast at 17:00 to all groups
+2025-07-06 17:00:50,751 - INFO - Message sent successfully to chat -1002111810768
+2025-07-06 17:00:51,609 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 17:00:52,232 - INFO - Message sent successfully to chat -1002098871252
+2025-07-06 17:00:53,003 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 17:00:53,653 - INFO - Message sent successfully to chat -1001927958845
+2025-07-06 17:00:54,400 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 17:00:55,052 - INFO - Message sent successfully to chat -1001508552538
+2025-07-06 17:00:55,400 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-06 17:00:56,052 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-07 06:12:19,176 - INFO - ==================================================
+2025-07-07 06:12:19,184 - INFO - Telegram Promotional Bot Starting
+2025-07-07 06:12:19,184 - INFO - ==================================================
+2025-07-07 06:12:19,184 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-07 06:12:19,539 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 06:12:19,540 - INFO - Setting up message schedule...
+2025-07-07 06:12:19,540 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-07 06:12:19,540 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-07 06:12:19,541 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-07 06:12:19,541 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-07 06:12:19,541 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-07 06:12:19,541 - INFO - Total scheduled times: 5
+2025-07-07 06:12:19,541 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-07 06:12:19,541 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-07 06:12:19,542 - INFO -   - Daily at 09:00
+2025-07-07 06:12:19,542 - INFO -   - Daily at 13:00
+2025-07-07 06:12:19,542 - INFO -   - Daily at 15:30
+2025-07-07 06:12:19,542 - INFO -   - Daily at 17:00
+2025-07-07 06:12:19,542 - INFO -   - Daily at 21:00
+2025-07-07 06:12:19,542 - INFO - Next scheduled broadcast: 2025-07-07 09:00:00
+2025-07-07 06:12:19,542 - INFO - Timezone: GMT+3
+2025-07-07 06:12:19,542 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-07 06:12:19,543 - INFO - Schedule management commands:
+2025-07-07 06:12:19,543 - INFO -   python telegram_bot.py --list-schedule
+2025-07-07 06:12:19,543 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-07 06:12:19,543 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-07 06:12:19,543 - INFO -   python telegram_bot.py --test-send
+2025-07-07 06:12:31,625 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-07 06:12:31,982 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 06:12:31,984 - INFO - Starting scheduled message broadcast at 2025-07-07 06:12:31 to all groups
+2025-07-07 06:12:32,413 - INFO - Message sent successfully to chat -1002111810768
+2025-07-07 06:12:33,839 - INFO - Message sent successfully to chat -1002098871252
+2025-07-07 06:12:35,344 - INFO - Message sent successfully to chat -1001927958845
+2025-07-07 06:12:36,775 - INFO - Message sent successfully to chat -1001508552538
+2025-07-07 06:12:37,777 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-07 06:12:41,975 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-07 06:12:42,344 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 06:12:42,351 - INFO - Starting scheduled message broadcast at 2025-07-07 06:12:42 to all groups
+2025-07-07 06:12:42,355 - WARNING - Skipping duplicate send - last message sent 5 seconds ago
+2025-07-07 06:19:48,453 - INFO - ==================================================
+2025-07-07 06:19:48,453 - INFO - Telegram Promotional Bot Starting
+2025-07-07 06:19:48,453 - INFO - ==================================================
+2025-07-07 06:19:48,453 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-07 06:19:48,807 - ERROR - Network error during token validation: 404 Client Error: Not Found for url: https://api.telegram.org/bot@fsdfgdesac_bot/getMe
+2025-07-07 06:19:48,809 - ERROR - Bot token validation failed. Please check your BOT_TOKEN environment variable.
+2025-07-07 06:22:07,810 - INFO - ==================================================
+2025-07-07 06:22:07,811 - INFO - Telegram Promotional Bot Starting
+2025-07-07 06:22:07,811 - INFO - ==================================================
+2025-07-07 06:22:07,811 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-07 06:22:08,157 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 06:22:08,157 - INFO - Setting up message schedule...
+2025-07-07 06:22:08,158 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-07 06:22:08,158 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-07 06:22:08,158 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-07 06:22:08,158 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-07 06:22:08,162 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-07 06:22:08,162 - INFO - Total scheduled times: 5
+2025-07-07 06:22:08,162 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-07 06:22:08,162 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-07 06:22:08,162 - INFO -   - Daily at 09:00
+2025-07-07 06:22:08,162 - INFO -   - Daily at 13:00
+2025-07-07 06:22:08,162 - INFO -   - Daily at 15:30
+2025-07-07 06:22:08,163 - INFO -   - Daily at 17:00
+2025-07-07 06:22:08,163 - INFO -   - Daily at 21:00
+2025-07-07 06:22:08,163 - INFO - Next scheduled broadcast: 2025-07-07 09:00:00
+2025-07-07 06:22:08,163 - INFO - Timezone: GMT+3
+2025-07-07 06:22:08,163 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-07 06:22:08,163 - INFO - Schedule management commands:
+2025-07-07 06:22:08,163 - INFO -   python telegram_bot.py --list-schedule
+2025-07-07 06:22:08,163 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-07 06:22:08,163 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-07 06:22:08,163 - INFO -   python telegram_bot.py --test-send
+2025-07-07 07:01:49,400 - INFO - ==================================================
+2025-07-07 07:01:49,403 - INFO - Telegram Promotional Bot Starting
+2025-07-07 07:01:49,403 - INFO - ==================================================
+2025-07-07 07:01:49,406 - INFO - Health check server started on port 5000
+2025-07-07 07:01:49,406 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-07 07:01:49,786 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 07:01:49,787 - INFO - Setting up message schedule...
+2025-07-07 07:01:49,787 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-07 07:01:49,787 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-07 07:01:49,788 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-07 07:01:49,788 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-07 07:01:49,788 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-07 07:01:49,788 - INFO - Total scheduled times: 5
+2025-07-07 07:01:49,788 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-07 07:01:49,788 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-07 07:01:49,788 - INFO -   - Daily at 09:00
+2025-07-07 07:01:49,789 - INFO -   - Daily at 13:00
+2025-07-07 07:01:49,789 - INFO -   - Daily at 15:30
+2025-07-07 07:01:49,789 - INFO -   - Daily at 17:00
+2025-07-07 07:01:49,789 - INFO -   - Daily at 21:00
+2025-07-07 07:01:49,789 - INFO - Next scheduled broadcast: 2025-07-07 09:00:00
+2025-07-07 07:01:49,789 - INFO - Timezone: GMT+3
+2025-07-07 07:01:49,789 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-07 07:01:49,789 - INFO - Schedule management commands:
+2025-07-07 07:01:49,789 - INFO -   python telegram_bot.py --list-schedule
+2025-07-07 07:01:49,789 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-07 07:01:49,789 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-07 07:01:49,790 - INFO -   python telegram_bot.py --test-send
+2025-07-07 07:01:51,018 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 07:01:56,182 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 07:02:00,706 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 07:02:04,216 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 13:41:41,735 - INFO - ==================================================
+2025-07-07 13:41:41,736 - INFO - Telegram Promotional Bot Starting
+2025-07-07 13:41:41,736 - INFO - ==================================================
+2025-07-07 13:41:41,741 - INFO - Health check server started on port 5000
+2025-07-07 13:41:41,741 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-07 13:41:42,090 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-07 13:41:42,092 - INFO - Setting up message schedule...
+2025-07-07 13:41:42,092 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-07 13:41:42,092 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-07 13:41:42,093 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-07 13:41:42,093 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-07 13:41:42,096 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-07 13:41:42,100 - INFO - Total scheduled times: 5
+2025-07-07 13:41:42,101 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-07 13:41:42,101 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-07 13:41:42,101 - INFO -   - Daily at 09:00
+2025-07-07 13:41:42,101 - INFO -   - Daily at 13:00
+2025-07-07 13:41:42,101 - INFO -   - Daily at 15:30
+2025-07-07 13:41:42,101 - INFO -   - Daily at 17:00
+2025-07-07 13:41:42,101 - INFO -   - Daily at 21:00
+2025-07-07 13:41:42,101 - INFO - Next scheduled broadcast: 2025-07-07 15:30:00
+2025-07-07 13:41:42,102 - INFO - Timezone: GMT+2
+2025-07-07 13:41:42,102 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-07 13:41:42,102 - INFO - Schedule management commands:
+2025-07-07 13:41:42,103 - INFO -   python telegram_bot.py --list-schedule
+2025-07-07 13:41:42,103 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-07 13:41:42,103 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-07 13:41:42,103 - INFO -   python telegram_bot.py --test-send
+2025-07-08 09:54:10,567 - INFO - ==================================================
+2025-07-08 09:54:10,568 - INFO - Telegram Promotional Bot Starting
+2025-07-08 09:54:10,568 - INFO - ==================================================
+2025-07-08 09:54:10,570 - INFO - Health check server started on port 5000
+2025-07-08 09:54:10,571 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-08 09:54:10,922 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-08 09:54:10,922 - INFO - Setting up message schedule...
+2025-07-08 09:54:10,923 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-08 09:54:10,923 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-08 09:54:10,923 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-08 09:54:10,923 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-08 09:54:10,923 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-08 09:54:10,923 - INFO - Total scheduled times: 5
+2025-07-08 09:54:10,924 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-08 09:54:10,924 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-08 09:54:10,924 - INFO -   - Daily at 09:00
+2025-07-08 09:54:10,924 - INFO -   - Daily at 13:00
+2025-07-08 09:54:10,924 - INFO -   - Daily at 15:30
+2025-07-08 09:54:10,924 - INFO -   - Daily at 17:00
+2025-07-08 09:54:10,924 - INFO -   - Daily at 21:00
+2025-07-08 09:54:10,924 - INFO - Next scheduled broadcast: 2025-07-08 13:00:00
+2025-07-08 09:54:10,924 - INFO - Timezone: GMT+2
+2025-07-08 09:54:10,925 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-08 09:54:10,925 - INFO - Schedule management commands:
+2025-07-08 09:54:10,925 - INFO -   python telegram_bot.py --list-schedule
+2025-07-08 09:54:10,925 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-08 09:54:10,925 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-08 09:54:10,925 - INFO -   python telegram_bot.py --test-send
+2025-07-08 10:01:28,736 - ERROR - Another instance of the bot is already running. Exiting.
+2025-07-08 12:53:07,888 - INFO - ==================================================
+2025-07-08 12:53:07,888 - INFO - Telegram Promotional Bot Starting
+2025-07-08 12:53:07,888 - INFO - ==================================================
+2025-07-08 12:53:07,890 - INFO - Health check server started on port 5000
+2025-07-08 12:53:07,890 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-08 12:53:08,236 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-08 12:53:08,236 - INFO - Setting up message schedule...
+2025-07-08 12:53:08,237 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-08 12:53:08,237 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-08 12:53:08,237 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-08 12:53:08,237 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-08 12:53:08,237 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-08 12:53:08,237 - INFO - Total scheduled times: 5
+2025-07-08 12:53:08,238 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-08 12:53:08,238 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-08 12:53:08,238 - INFO -   - Daily at 09:00
+2025-07-08 12:53:08,238 - INFO -   - Daily at 13:00
+2025-07-08 12:53:08,238 - INFO -   - Daily at 15:30
+2025-07-08 12:53:08,238 - INFO -   - Daily at 17:00
+2025-07-08 12:53:08,238 - INFO -   - Daily at 21:00
+2025-07-08 12:53:08,238 - INFO - Next scheduled broadcast: 2025-07-08 13:00:00
+2025-07-08 12:53:08,238 - INFO - Timezone: GMT+2
+2025-07-08 12:53:08,238 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-08 12:53:08,238 - INFO - Schedule management commands:
+2025-07-08 12:53:08,238 - INFO -   python telegram_bot.py --list-schedule
+2025-07-08 12:53:08,238 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-08 12:53:08,238 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-08 12:53:08,240 - INFO -   python telegram_bot.py --test-send
+2025-07-08 13:00:08,241 - INFO - Starting scheduled message broadcast at 2025-07-08 13:00:08 to all groups
+2025-07-08 13:00:08,711 - INFO - Message sent successfully to chat -1002111810768
+2025-07-08 13:00:10,299 - INFO - Message sent successfully to chat -1002098871252
+2025-07-08 13:00:11,851 - INFO - Message sent successfully to chat -1001927958845
+2025-07-08 13:00:13,243 - INFO - Message sent successfully to chat -1001508552538
+2025-07-08 13:00:14,244 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-08 13:04:35,453 - INFO - ==================================================
+2025-07-08 13:04:35,453 - INFO - Telegram Promotional Bot Starting
+2025-07-08 13:04:35,454 - INFO - ==================================================
+2025-07-08 13:04:35,455 - INFO - Health check server started on port 5000
+2025-07-08 13:04:35,455 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-08 13:04:35,801 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-08 13:04:35,802 - INFO - Setting up message schedule...
+2025-07-08 13:04:35,802 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-08 13:04:35,802 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-08 13:04:35,802 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-08 13:04:35,803 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-08 13:04:35,803 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-08 13:04:35,803 - INFO - Total scheduled times: 5
+2025-07-08 13:04:35,803 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-08 13:04:35,803 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-08 13:04:35,804 - INFO -   - Daily at 09:00
+2025-07-08 13:04:35,804 - INFO -   - Daily at 13:00
+2025-07-08 13:04:35,804 - INFO -   - Daily at 15:30
+2025-07-08 13:04:35,804 - INFO -   - Daily at 17:00
+2025-07-08 13:04:35,804 - INFO -   - Daily at 21:00
+2025-07-08 13:04:35,804 - INFO - Next scheduled broadcast: 2025-07-08 15:30:00
+2025-07-08 13:04:35,804 - INFO - Timezone: GMT+2
+2025-07-08 13:04:35,805 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-08 13:04:35,805 - INFO - Schedule management commands:
+2025-07-08 13:04:35,805 - INFO -   python telegram_bot.py --list-schedule
+2025-07-08 13:04:35,805 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-08 13:04:35,805 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-08 13:04:35,805 - INFO -   python telegram_bot.py --test-send
+2025-07-08 13:04:40,351 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-08 17:49:23,967 - INFO - ==================================================
+2025-07-08 17:49:23,968 - INFO - Telegram Promotional Bot Starting
+2025-07-08 17:49:23,968 - INFO - ==================================================
+2025-07-08 17:49:23,970 - INFO - Health check server started on port 5000
+2025-07-08 17:49:23,971 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-08 17:49:24,332 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-08 17:49:24,333 - INFO - Setting up message schedule...
+2025-07-08 17:49:24,333 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-08 17:49:24,334 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-08 17:49:24,334 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-08 17:49:24,334 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-08 17:49:24,335 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-08 17:49:24,335 - INFO - Total scheduled times: 5
+2025-07-08 17:49:24,336 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-08 17:49:24,336 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-08 17:49:24,336 - INFO -   - Daily at 09:00
+2025-07-08 17:49:24,336 - INFO -   - Daily at 13:00
+2025-07-08 17:49:24,336 - INFO -   - Daily at 15:30
+2025-07-08 17:49:24,336 - INFO -   - Daily at 17:00
+2025-07-08 17:49:24,337 - INFO -   - Daily at 21:00
+2025-07-08 17:49:24,337 - INFO - Next scheduled broadcast: 2025-07-08 21:00:00
+2025-07-08 17:49:24,337 - INFO - Timezone: GMT+2
+2025-07-08 17:49:24,337 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-08 17:49:24,337 - INFO - Schedule management commands:
+2025-07-08 17:49:24,337 - INFO -   python telegram_bot.py --list-schedule
+2025-07-08 17:49:24,338 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-08 17:49:24,338 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-08 17:49:24,338 - INFO -   python telegram_bot.py --test-send
+2025-07-08 17:49:27,880 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-08 17:49:34,892 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-08 17:49:35,261 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-08 17:49:35,263 - INFO - Starting scheduled message broadcast at 2025-07-08 17:49:35 to all groups
+2025-07-08 17:49:35,726 - INFO - Message sent successfully to chat -1002111810768
+2025-07-08 17:49:37,141 - INFO - Message sent successfully to chat -1002098871252
+2025-07-08 17:49:38,634 - INFO - Message sent successfully to chat -1001927958845
+2025-07-08 17:49:40,021 - INFO - Message sent successfully to chat -1001508552538
+2025-07-08 17:49:41,024 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-08 17:50:26,121 - INFO - ==================================================
+2025-07-08 17:50:26,122 - INFO - Telegram Promotional Bot Starting
+2025-07-08 17:50:26,122 - INFO - ==================================================
+2025-07-08 17:50:26,129 - INFO - Health check server started on port 5000
+2025-07-08 17:50:26,129 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-08 17:50:26,481 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-08 17:50:26,481 - INFO - Setting up message schedule...
+2025-07-08 17:50:26,481 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-08 17:50:26,482 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-08 17:50:26,482 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-08 17:50:26,482 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-08 17:50:26,482 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-08 17:50:26,482 - INFO - Total scheduled times: 5
+2025-07-08 17:50:26,483 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-08 17:50:26,483 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-08 17:50:26,483 - INFO -   - Daily at 09:00
+2025-07-08 17:50:26,483 - INFO -   - Daily at 13:00
+2025-07-08 17:50:26,483 - INFO -   - Daily at 15:30
+2025-07-08 17:50:26,483 - INFO -   - Daily at 17:00
+2025-07-08 17:50:26,483 - INFO -   - Daily at 21:00
+2025-07-08 17:50:26,483 - INFO - Next scheduled broadcast: 2025-07-08 21:00:00
+2025-07-08 17:50:26,483 - INFO - Timezone: GMT+2
+2025-07-08 17:50:26,483 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-08 17:50:26,484 - INFO - Schedule management commands:
+2025-07-08 17:50:26,484 - INFO -   python telegram_bot.py --list-schedule
+2025-07-08 17:50:26,484 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-08 17:50:26,484 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-08 17:50:26,484 - INFO -   python telegram_bot.py --test-send
+2025-07-08 18:00:26,486 - INFO - Bot heartbeat - Next scheduled: 2025-07-08 21:00:00
+2025-07-09 11:23:14,954 - INFO - ==================================================
+2025-07-09 11:23:14,955 - INFO - Telegram Promotional Bot Starting
+2025-07-09 11:23:14,955 - INFO - ==================================================
+2025-07-09 11:23:14,957 - INFO - Health check server started on port 5000
+2025-07-09 11:23:14,957 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 11:23:15,302 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 11:23:15,302 - INFO - Setting up message schedule...
+2025-07-09 11:23:15,302 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-09 11:23:15,303 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-09 11:23:15,303 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-09 11:23:15,303 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-09 11:23:15,303 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-09 11:23:15,303 - INFO - Total scheduled times: 5
+2025-07-09 11:23:15,303 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-09 11:23:15,303 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-09 11:23:15,303 - INFO -   - Daily at 09:00
+2025-07-09 11:23:15,303 - INFO -   - Daily at 13:00
+2025-07-09 11:23:15,304 - INFO -   - Daily at 15:30
+2025-07-09 11:23:15,304 - INFO -   - Daily at 17:00
+2025-07-09 11:23:15,304 - INFO -   - Daily at 21:00
+2025-07-09 11:23:15,304 - INFO - Next scheduled broadcast: 2025-07-09 13:00:00
+2025-07-09 11:23:15,304 - INFO - Timezone: GMT+2
+2025-07-09 11:23:15,304 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-09 11:23:15,304 - INFO - Schedule management commands:
+2025-07-09 11:23:15,304 - INFO -   python telegram_bot.py --list-schedule
+2025-07-09 11:23:15,304 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-09 11:23:15,304 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-09 11:23:15,304 - INFO -   python telegram_bot.py --test-send
+2025-07-09 11:30:15,309 - INFO - Bot heartbeat - Next scheduled: 2025-07-09 13:00:00
+2025-07-09 11:32:42,218 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 11:42:16,374 - INFO - ==================================================
+2025-07-09 11:42:16,374 - INFO - Telegram Promotional Bot Starting
+2025-07-09 11:42:16,374 - INFO - ==================================================
+2025-07-09 11:42:16,376 - INFO - Health check server started on port 5000
+2025-07-09 11:42:16,376 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 11:42:16,722 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 11:42:16,722 - INFO - Setting up message schedule...
+2025-07-09 11:42:16,723 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-09 11:42:16,723 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-09 11:42:16,723 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-09 11:42:16,723 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-09 11:42:16,723 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-09 11:42:16,723 - INFO - Total scheduled times: 5
+2025-07-09 11:42:16,724 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-09 11:42:16,724 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-09 11:42:16,724 - INFO -   - Daily at 09:00
+2025-07-09 11:42:16,724 - INFO -   - Daily at 13:00
+2025-07-09 11:42:16,724 - INFO -   - Daily at 15:30
+2025-07-09 11:42:16,724 - INFO -   - Daily at 17:00
+2025-07-09 11:42:16,724 - INFO -   - Daily at 21:00
+2025-07-09 11:42:16,724 - INFO - Next scheduled broadcast: 2025-07-09 13:00:00
+2025-07-09 11:42:16,724 - INFO - Timezone: GMT+2
+2025-07-09 11:42:16,725 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-09 11:42:16,725 - INFO - Schedule management commands:
+2025-07-09 11:42:16,725 - INFO -   python telegram_bot.py --list-schedule
+2025-07-09 11:42:16,725 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-09 11:42:16,725 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-09 11:42:16,725 - INFO -   python telegram_bot.py --test-send
+2025-07-09 11:42:20,513 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 11:42:32,478 - INFO - ==================================================
+2025-07-09 11:42:32,479 - INFO - Telegram Promotional Bot Starting
+2025-07-09 11:42:32,479 - INFO - ==================================================
+2025-07-09 11:42:32,481 - INFO - Health check server started on port 5000
+2025-07-09 11:42:32,482 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 11:42:32,828 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 11:42:32,829 - INFO - Setting up message schedule...
+2025-07-09 11:42:32,829 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-09 11:42:32,830 - INFO - Scheduled daily message broadcast at 13:00
+2025-07-09 11:42:32,830 - INFO - Scheduled daily message broadcast at 15:30
+2025-07-09 11:42:32,830 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-09 11:42:32,830 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-09 11:42:32,830 - INFO - Total scheduled times: 5
+2025-07-09 11:42:32,830 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-09 11:42:32,830 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-09 11:42:32,831 - INFO -   - Daily at 09:00
+2025-07-09 11:42:32,831 - INFO -   - Daily at 13:00
+2025-07-09 11:42:32,831 - INFO -   - Daily at 15:30
+2025-07-09 11:42:32,831 - INFO -   - Daily at 17:00
+2025-07-09 11:42:32,831 - INFO -   - Daily at 21:00
+2025-07-09 11:42:32,831 - INFO - Next scheduled broadcast: 2025-07-09 13:00:00
+2025-07-09 11:42:32,831 - INFO - Timezone: GMT+3
+2025-07-09 11:42:32,831 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-09 11:42:32,831 - INFO - Schedule management commands:
+2025-07-09 11:42:32,831 - INFO -   python telegram_bot.py --list-schedule
+2025-07-09 11:42:32,832 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-09 11:42:32,832 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-09 11:42:32,832 - INFO -   python telegram_bot.py --test-send
+2025-07-09 11:42:35,780 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 11:44:29,813 - INFO - ==================================================
+2025-07-09 11:44:29,814 - INFO - Telegram Promotional Bot Starting
+2025-07-09 11:44:29,814 - INFO - ==================================================
+2025-07-09 11:44:29,816 - INFO - Health check server started on port 5000
+2025-07-09 11:44:29,816 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 11:44:30,161 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 11:44:30,162 - INFO - Setting up message schedule...
+2025-07-09 11:44:30,162 - INFO - Scheduled daily message broadcast at 09:00
+2025-07-09 11:44:30,162 - INFO - Scheduled daily message broadcast at 14:45
+2025-07-09 11:44:30,162 - INFO - Scheduled daily message broadcast at 17:00
+2025-07-09 11:44:30,162 - INFO - Scheduled daily message broadcast at 21:00
+2025-07-09 11:44:30,163 - INFO - Total scheduled times: 4
+2025-07-09 11:44:30,163 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-09 11:44:30,163 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-09 11:44:30,163 - INFO -   - Daily at 09:00
+2025-07-09 11:44:30,163 - INFO -   - Daily at 14:45
+2025-07-09 11:44:30,163 - INFO -   - Daily at 17:00
+2025-07-09 11:44:30,163 - INFO -   - Daily at 21:00
+2025-07-09 11:44:30,163 - INFO - Next scheduled broadcast: 2025-07-09 14:45:00
+2025-07-09 11:44:30,164 - INFO - Timezone: GMT+3
+2025-07-09 11:44:30,164 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-09 11:44:30,164 - INFO - Schedule management commands:
+2025-07-09 11:44:30,164 - INFO -   python telegram_bot.py --list-schedule
+2025-07-09 11:44:30,164 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-09 11:44:30,164 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-09 11:44:30,164 - INFO -   python telegram_bot.py --test-send
+2025-07-09 11:44:33,537 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 12:00:30,166 - INFO - Bot heartbeat - Next scheduled: 2025-07-09 14:45:00
+2025-07-09 12:02:01,524 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 12:02:21,357 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 12:02:21,720 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 12:02:21,722 - INFO - Starting scheduled message broadcast at 2025-07-09 12:02:21 to all groups
+2025-07-09 12:02:22,150 - INFO - Message sent successfully to chat -1002111810768
+2025-07-09 12:02:23,647 - INFO - Message sent successfully to chat -1002098871252
+2025-07-09 12:02:25,067 - INFO - Message sent successfully to chat -1001927958845
+2025-07-09 12:02:26,521 - INFO - Message sent successfully to chat -1001508552538
+2025-07-09 12:02:27,523 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-09 12:02:44,487 - INFO - ==================================================
+2025-07-09 12:02:44,487 - INFO - Telegram Promotional Bot Starting
+2025-07-09 12:02:44,487 - INFO - ==================================================
+2025-07-09 12:02:44,495 - INFO - Health check server started on port 5000
+2025-07-09 12:02:44,495 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 12:02:44,842 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 12:02:44,842 - INFO - Setting up message schedule...
+2025-07-09 12:02:44,843 - INFO - Scheduled daily message broadcast at 09:00 (UTC: 06:00)
+2025-07-09 12:02:44,843 - INFO - Scheduled daily message broadcast at 14:45 (UTC: 11:45)
+2025-07-09 12:02:44,843 - INFO - Scheduled daily message broadcast at 17:00 (UTC: 14:00)
+2025-07-09 12:02:44,843 - INFO - Scheduled daily message broadcast at 21:00 (UTC: 18:00)
+2025-07-09 12:02:44,843 - INFO - Total scheduled times: 4
+2025-07-09 12:02:44,844 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-09 12:02:44,844 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-09 12:02:44,844 - INFO -   - Daily at 09:00
+2025-07-09 12:02:44,844 - INFO -   - Daily at 14:45
+2025-07-09 12:02:44,844 - INFO -   - Daily at 17:00
+2025-07-09 12:02:44,844 - INFO -   - Daily at 21:00
+2025-07-09 12:02:44,844 - INFO - Next scheduled broadcast: 2025-07-09 14:00:00
+2025-07-09 12:02:44,844 - INFO - Timezone: GMT+3
+2025-07-09 12:02:44,844 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-09 12:02:44,844 - INFO - Schedule management commands:
+2025-07-09 12:02:44,844 - INFO -   python telegram_bot.py --list-schedule
+2025-07-09 12:02:44,845 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-09 12:02:44,845 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-09 12:02:44,845 - INFO -   python telegram_bot.py --test-send
+2025-07-09 12:02:48,823 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 15:42:42,056 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 15:42:42,417 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 15:42:42,418 - INFO - Starting scheduled message broadcast at 2025-07-09 15:42:42 to all groups
+2025-07-09 15:42:42,903 - INFO - Message sent successfully to chat -1002111810768
+2025-07-09 15:42:44,328 - INFO - Message sent successfully to chat -1002098871252
+2025-07-09 15:42:45,943 - INFO - Message sent successfully to chat -1001927958845
+2025-07-09 15:42:47,388 - INFO - Message sent successfully to chat -1001508552538
+2025-07-09 15:42:48,390 - INFO - Broadcast completed: 4/4 messages sent successfully
+2025-07-09 15:42:48,873 - INFO - ==================================================
+2025-07-09 15:42:48,873 - INFO - Telegram Promotional Bot Starting
+2025-07-09 15:42:48,873 - INFO - ==================================================
+2025-07-09 15:42:48,874 - INFO - Health check server started on port 5000
+2025-07-09 15:42:48,875 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 15:42:49,230 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 15:42:49,231 - INFO - Setting up message schedule...
+2025-07-09 15:42:49,231 - INFO - Scheduled daily message broadcast at 09:00 (UTC: 06:00)
+2025-07-09 15:42:49,231 - INFO - Scheduled daily message broadcast at 14:45 (UTC: 11:45)
+2025-07-09 15:42:49,231 - INFO - Scheduled daily message broadcast at 17:00 (UTC: 14:00)
+2025-07-09 15:42:49,232 - INFO - Scheduled daily message broadcast at 21:00 (UTC: 18:00)
+2025-07-09 15:42:49,232 - INFO - Total scheduled times: 4
+2025-07-09 15:42:49,232 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-09 15:42:49,232 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-09 15:42:49,232 - INFO -   - Daily at 09:00
+2025-07-09 15:42:49,232 - INFO -   - Daily at 14:45
+2025-07-09 15:42:49,232 - INFO -   - Daily at 17:00
+2025-07-09 15:42:49,232 - INFO -   - Daily at 21:00
+2025-07-09 15:42:49,232 - INFO - Next scheduled broadcast: 2025-07-09 18:00:00
+2025-07-09 15:42:49,233 - INFO - Timezone: GMT+3
+2025-07-09 15:42:49,233 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-09 15:42:49,233 - INFO - Schedule management commands:
+2025-07-09 15:42:49,233 - INFO -   python telegram_bot.py --list-schedule
+2025-07-09 15:42:49,233 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-09 15:42:49,233 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-09 15:42:49,233 - INFO -   python telegram_bot.py --test-send
+2025-07-09 15:43:43,361 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 15:47:59,472 - INFO - ==================================================
+2025-07-09 15:47:59,474 - INFO - Telegram Promotional Bot Starting
+2025-07-09 15:47:59,474 - INFO - ==================================================
+2025-07-09 15:47:59,477 - INFO - Health check server started on port 5000
+2025-07-09 15:47:59,478 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 15:47:59,883 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 15:47:59,883 - INFO - Setting up message schedule...
+2025-07-09 15:47:59,884 - INFO - Scheduled daily message broadcast at 09:00 (UTC: 06:00)
+2025-07-09 15:47:59,884 - INFO - Scheduled daily message broadcast at 14:45 (UTC: 11:45)
+2025-07-09 15:47:59,884 - INFO - Scheduled daily message broadcast at 17:00 (UTC: 14:00)
+2025-07-09 15:47:59,884 - INFO - Scheduled daily message broadcast at 21:00 (UTC: 18:00)
+2025-07-09 15:47:59,884 - INFO - Total scheduled times: 4
+2025-07-09 15:47:59,885 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-09 15:47:59,885 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-09 15:47:59,885 - INFO -   - Daily at 09:00
+2025-07-09 15:47:59,885 - INFO -   - Daily at 14:45
+2025-07-09 15:47:59,885 - INFO -   - Daily at 17:00
+2025-07-09 15:47:59,885 - INFO -   - Daily at 21:00
+2025-07-09 15:47:59,885 - INFO - Next scheduled broadcast: 2025-07-09 18:00:00
+2025-07-09 15:47:59,885 - INFO - Timezone: GMT+3
+2025-07-09 15:47:59,886 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-09 15:47:59,886 - INFO - Schedule management commands:
+2025-07-09 15:47:59,886 - INFO -   python telegram_bot.py --list-schedule
+2025-07-09 15:47:59,886 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-09 15:47:59,886 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-09 15:47:59,887 - INFO -   python telegram_bot.py --test-send
+2025-07-09 15:48:04,066 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 15:50:43,634 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 15:55:28,287 - INFO - ==================================================
+2025-07-09 15:55:28,297 - INFO - Telegram Promotional Bot Starting
+2025-07-09 15:55:28,297 - INFO - ==================================================
+2025-07-09 15:55:28,301 - INFO - Health check server started on port 5000
+2025-07-09 15:55:28,302 - INFO - Schedule configuration loaded from schedule_config.json
+2025-07-09 15:55:28,649 - INFO - Bot token validated successfully. Bot: @fsdfgdesac_bot
+2025-07-09 15:55:28,650 - INFO - Setting up message schedule...
+2025-07-09 15:55:28,650 - INFO - Scheduled daily message broadcast at 09:00 (UTC: 06:00)
+2025-07-09 15:55:28,650 - INFO - Scheduled daily message broadcast at 14:45 (UTC: 11:45)
+2025-07-09 15:55:28,650 - INFO - Scheduled daily message broadcast at 17:00 (UTC: 14:00)
+2025-07-09 15:55:28,650 - INFO - Scheduled daily message broadcast at 21:00 (UTC: 18:00)
+2025-07-09 15:55:28,651 - INFO - Total scheduled times: 4
+2025-07-09 15:55:28,651 - INFO - Schedule configuration saved to schedule_config.json
+2025-07-09 15:55:28,651 - INFO - Bot will send messages to 4 groups at scheduled times:
+2025-07-09 15:55:28,651 - INFO -   - Daily at 09:00
+2025-07-09 15:55:28,651 - INFO -   - Daily at 14:45
+2025-07-09 15:55:28,651 - INFO -   - Daily at 17:00
+2025-07-09 15:55:28,651 - INFO -   - Daily at 21:00
+2025-07-09 15:55:28,651 - INFO - Next scheduled broadcast: 2025-07-09 18:00:00
+2025-07-09 15:55:28,652 - INFO - Timezone: GMT+3
+2025-07-09 15:55:28,652 - INFO - Bot is now running. Use Ctrl+C to stop.
+2025-07-09 15:55:28,652 - INFO - Schedule management commands:
+2025-07-09 15:55:28,652 - INFO -   python telegram_bot.py --list-schedule
+2025-07-09 15:55:28,652 - INFO -   python telegram_bot.py --add-time HH:MM
+2025-07-09 15:55:28,652 - INFO -   python telegram_bot.py --remove-time HH:MM
+2025-07-09 15:55:28,652 - INFO -   python telegram_bot.py --test-send
+2025-07-09 16:00:28,653 - INFO - Bot heartbeat - Next scheduled: 2025-07-09 18:00:00
