@@ -232,11 +232,43 @@ def setup_schedule():
     """
     logger.info("Setting up message schedule...")
     
+    # Clear existing schedule to avoid duplicates
+    schedule.clear()
+    
     for schedule_time in SCHEDULE_TIMES:
-        schedule.every().day.at(schedule_time).do(send_to_all_groups)
-        logger.info(f"Scheduled daily message broadcast at {schedule_time}")
+        # Convert GMT+3 time to UTC for scheduling
+        utc_time = convert_to_utc_time(schedule_time)
+        schedule.every().day.at(utc_time).do(send_to_all_groups)
+        logger.info(f"Scheduled daily message broadcast at {schedule_time} (UTC: {utc_time})")
     
     logger.info(f"Total scheduled times: {len(SCHEDULE_TIMES)}")
+
+
+def convert_to_utc_time(gmt_plus3_time):
+    """
+    Convert GMT+3 time to UTC time for scheduling.
+    
+    Args:
+        gmt_plus3_time (str): Time in HH:MM format (GMT+3)
+        
+    Returns:
+        str: Time in HH:MM format (UTC)
+    """
+    try:
+        # Parse the time
+        hour, minute = map(int, gmt_plus3_time.split(':'))
+        
+        # Convert from GMT+3 to UTC (subtract 3 hours)
+        utc_hour = hour - 3
+        
+        # Handle day wraparound
+        if utc_hour < 0:
+            utc_hour += 24
+        
+        return f"{utc_hour:02d}:{minute:02d}"
+    except:
+        logger.error(f"Failed to convert time {gmt_plus3_time}")
+        return gmt_plus3_time
 
 
 def get_next_scheduled_time():

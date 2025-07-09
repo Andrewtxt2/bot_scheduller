@@ -106,6 +106,11 @@ Changelog:
   * Implemented heartbeat logging every 30 minutes
   * Created restart_bot.sh script for automatic recovery
   * Added consecutive error tracking to prevent infinite loops
+- July 09, 2025. Fixed timezone and scheduling issues:
+  * Corrected timezone from GMT+2 to GMT+3
+  * Updated schedule: 09:00, 14:45, 17:00, 21:00 (removed 13:00 and 15:30)
+  * Added proper UTC conversion for scheduling (GMT+3 to UTC)
+  * Fixed missed message sending due to timezone misconfiguration
 ```
 
 ## User Preferences
