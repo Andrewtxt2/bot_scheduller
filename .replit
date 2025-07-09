@@ -4,6 +4,7 @@ modules = ["python-3.11", "python3"]
 channel = "stable-24_05"
 
 [workflows]
+runButton = "Project"
 
 [[workflows.workflow]]
 name = "Project"
@@ -14,6 +15,10 @@ author = "agent"
 task = "workflow.run"
 args = "Telegram Bot"
 
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Cron Sender"
+
 [[workflows.workflow]]
 name = "Telegram Bot"
 author = "agent"
@@ -21,6 +26,14 @@ author = "agent"
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "python telegram_bot.py"
+
+[[workflows.workflow]]
+name = "Cron Sender"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python cron_sender.py"
 
 [deployment]
 run = ["sh", "-c", "python telegram_bot.py"]

@@ -111,6 +111,11 @@ Changelog:
   * Updated schedule: 09:00, 14:45, 17:00, 21:00 (removed 13:00 and 15:30)
   * Added proper UTC conversion for scheduling (GMT+3 to UTC)
   * Fixed missed message sending due to timezone misconfiguration
+- July 09, 2025. Implemented dual reliability system:
+  * Created independent cron_sender.py as backup mechanism
+  * Added second workflow "Cron Sender" for redundancy
+  * Both systems check time independently and prevent duplicates
+  * Ensures message delivery even if main bot crashes
 ```
 
 ## User Preferences
