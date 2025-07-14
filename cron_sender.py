@@ -38,14 +38,15 @@ GROUP_IDS = [
 # Promotional message
 MESSAGE = """🔔 Наші інші корисні Telegram-групи:
 
-🏘 Нерухомість: @sofiannproperty  
-🚗 Авто: @sofiaautosell  
-📰 Новини: @sofianewnews  
-💬 Чат громади Софіївської Борщагівки: @sbpbchatnn 
-📢 Оголошення: @sbpb_ogoloshennya  
-💼 Робота: @worksofia  
-🏘 Чат ЖК "У-квартал": @neoffukvartal 
-🏠 Новини Вишневого, Крюківщини @kryuvysh
+🏘 Нерухомість: @sofiannproperty
+🚗 Авто: @autosellkyiv
+📰 Новини: @sofianewnews
+💬 Чат громади Софіївської Борщагівки: @sbpbchatnn
+📢 Оголошення: @sbpb_ogoloshennya
+💼 Робота: @worksofia
+🏙 Чат ЖК "У-квартал": @neoffukvartal
+📍 Новини Вишневого, Крюківщини: @kryuvysh
+🔎 Канал з вакансіями: @robota_borshchahivka_kyiv
 
 ✅ Долучайся, щоб нічого не пропустити!
 
