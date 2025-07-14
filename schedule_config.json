@@ -1,6 +1,7 @@
 {
   "schedule_times": [
     "09:00",
+    "15:00",
     "21:00"
   ],
   "timezone": "GMT+3",

@@ -17,21 +17,22 @@ import sys
 
 # Configuration
 BOT_TOKEN = os.getenv('BOT_TOKEN', '8093207171:AAEOmGvkSz0Z6nKb3vl0r3Iz2MyZjoWQqEA')
-GROUP_IDS = [-1002111810768, -1002098871252, -1001927958845, -1001508552538]
+GROUP_IDS = [-1002111810768, -1002098871252, -1001927958845, -1001508552538, -1001988059903]
 SCHEDULE_TIMES = ["09:00", "14:45", "17:00", "21:00"]
 LAST_SEND_FILE = "keepalive_last_send.json"
 PORT = 5001
 
 MESSAGE = """🔔 Наші інші корисні Telegram-групи:
 
-🏘 Нерухомість: @sofiannproperty  
-🚗 Авто: @sofiaautosell  
-📰 Новини: @sofianewnews  
-💬 Чат громади Софіївської Борщагівки: @sbpbchatnn 
-📢 Оголошення: @sbpb_ogoloshennya  
-💼 Робота: @worksofia  
-🏘 Чат ЖК "У-квартал": @neoffukvartal 
-🏠 Новини Вишневого, Крюківщини @kryuvysh
+🏘 Нерухомість: @sofiannproperty
+🚗 Авто: @autosellkyiv
+📰 Новини: @sofianewnews
+💬 Чат громади Софіївської Борщагівки: @sbpbchatnn
+📢 Оголошення: @sbpb_ogoloshennya
+💼 Робота: @worksofia
+🏙 Чат ЖК "У-квартал": @neoffukvartal
+📍 Новини Вишневого, Крюківщини: @kryuvysh
+🔎 Канал з вакансіями: @robota_borshchahivka_kyiv
 
 ✅ Долучайся, щоб нічого не пропустити!
 
