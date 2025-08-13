@@ -31,14 +31,15 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-BOT_TOKEN = os.getenv('BOT_TOKEN', '8093207171:AAEOmGvkSz0Z6nKb3vl0r3Iz2MyZjoWQqEA')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8093207171:AAHj9IUD-l_nCxVo_EeQdMOqoVFT_q-RElQ')
 
 # Target group IDs
 GROUP_IDS = [
     -1002111810768,
     -1002098871252,
     -1001927958845,
-    -1001508552538
+    -1001508552538,
+    -1001988059903
 ]
 
 # Health check server configuration

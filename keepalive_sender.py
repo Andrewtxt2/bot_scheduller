@@ -16,7 +16,7 @@ import signal
 import sys
 
 # Configuration
-BOT_TOKEN = os.getenv('BOT_TOKEN', '8093207171:AAEOmGvkSz0Z6nKb3vl0r3Iz2MyZjoWQqEA')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8093207171:AAHj9IUD-l_nCxVo_EeQdMOqoVFT_q-RElQ')
 GROUP_IDS = [-1002111810768, -1002098871252, -1001927958845, -1001508552538, -1001988059903]
 SCHEDULE_TIMES = ["09:00", "14:45", "17:00", "21:00"]
 LAST_SEND_FILE = "keepalive_last_send.json"
