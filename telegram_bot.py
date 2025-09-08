@@ -31,7 +31,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-BOT_TOKEN = os.getenv('BOT_TOKEN', '8093207171:AAHj9IUD-l_nCxVo_EeQdMOqoVFT_q-RElQ')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8093207171:AAGoIRsBcpBXPfLRz4RvXv3wMwdmEib6jn4')
 
 # Target group IDs
 GROUP_IDS = [
